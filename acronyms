@@ -1,5 +1,6 @@
 $NetBSD: acronyms,v 1.148 2005/09/20 13:22:04 jschauma Exp $
 
+AF	as fuck
 AFAIC	as far as I'm concerned
 AFAICR	as far as I can recall
 AFAICT	as far as I can tell
@@ -13,6 +14,7 @@ AFW	away from window
 AIU	as I understand
 AIUI	as I understand it
 AKA	also known as
+AMA	ask me anything
 ASAIC	as soon as I can
 ASAP	as soon as possible
 ATM	at the moment
@@ -47,6 +49,7 @@ COB	close of business [day]
 COTS	commercial off-the-shelf
 CYA	see you around
 D/L	download
+DAE	does anybody else
 DIY	do it yourself
 DKDC	don't know, don't care
 DSTM	don't shoot the messenger
@@ -54,6 +57,7 @@ DTRT	do the right thing
 DTWT	do the wrong thing
 DWIM	do what I mean
 EG	evil grin
+ELI5	explain like I'm 5 [years old]
 EMSG	email message
 EOB	end of business [day]
 EOD	end of discussion
@@ -62,6 +66,7 @@ ETLA	extended three letter acronym
 EWAG	experienced wild-ass guess
 FAQ	frequently asked question
 FCFS	first come first served
+FIFY	fixed it for you
 FIGJAM	fuck I'm good, just ask me
 FIIK	fuck[ed] if I know
 FIIR	fuck[ed] if I remember
@@ -71,6 +76,7 @@ FOS	full of shit
 FSDO	for some definition of
 FSVO	for some value of
 FTFM	fuck the fuckin' manual!
+FTFY	fixed that for you
 FUBAR	fucked up beyond all recognition
 FUD	fear, uncertainty and doubt
 FWIW	for what it's worth
@@ -88,10 +94,12 @@ HHIS	hanging head in shame
 HICA	here it comes again
 HTH	hope this helps
 IAC	in any case
+IANAD	I am not a doctor
 IANAL	I am not a lawyer
 IC	I see
 ICBW	I could be wrong
 ICCL	I couldn't care less
+IDK	I don't know
 IHAFC	I haven't a fucking clue
 IHBW	I have been wrong
 IHNFC	I have no fucking clue
@@ -120,19 +128,25 @@ JSYK	just so you know
 JTLYK	just to let you know
 KISS	keep it simple, stupid
 KITA	kick in the ass
+KMS	kill myself
 KNF	kernel normal form
+KYS	kill yourself
 L8R	later
 LART	luser attitude readjustment tool (ie, hammer)
 LBNL	last but not least
+LGBT	lesbian, gay, bisexual and transgender
 LJBF	let's just be friends
 LMAO	laughing my ass off
+LMFAO	laughing my fucking ass off
 LMSO	laughing my socks off
 LOL	laughing out loud
 LTNS	long time no see
+MFW	my face when
 MIA	missing in action
 MOTAS	member of the appropriate sex
 MOTOS	member of the opposite sex
 MOTSS	member of the same sex
+MRW	my reaction when
 MTF	more to follow
 MYOB	mind your own business
 N/M	never mind
@@ -149,8 +163,10 @@ NP	no problem
 NRFPT	not ready for prime time
 NRN	no reply necessary
 NSFW	not suitable for work
+OC	original content
 OIC	oh, I see
 OMG	oh, my god
+OP	original poster
 OT	off topic
 OTL	out to lunch
 OTOH	on the other hand
@@ -190,6 +206,8 @@ SEP	someone else's problem
 SFA	sweet fuck all
 SHID	slaps head in disgust
 SIMCA	sitting in my chair amused
+SJW	social justice warrior(s)
+SMH	shake my head
 SMLSFB	so many losers, so few bullets
 SMOP	simple matter of programming
 SNAFU	situation normal, all fucked up
@@ -211,11 +229,16 @@ SWMBO	she who must be obeyed
 TANSTAAFL	there ain't no such thing as a free lunch
 TBC	to be continued
 TBD	to be {decided,determined,done}
+TBH	to be honest
 TBOMK	the best of my knowledge
+TFW	the feel when
 THNX	thanks
 THX	thanks
 TIA	thanks in advance
+TIFU	today I fucked up
+TIL	today I learned
 TINC	there is no cabal
+TL;DR	too long; didn't read
 TLA	three letter acronym
 TLB	translation lookaside buffer
 TMA	too many abbreviations
@@ -252,4 +275,5 @@ YHL	you have lost
 YKWIM	you know what I mean
 YMA	yo momma's ass
 YMMV	your mileage may vary
+YOLO	you only live once
 YW	you're welcome
