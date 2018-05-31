@@ -1,5 +1,6 @@
-$ArchLinux: wikipedia computer abbrevs 2011-12-22
+$ArchLinux: wikipedia computer abbrevs 2018-05-31
 
+#!	Shebang
 /.	Slashdot
 100B-FX	100BASE-FX
 100B-T	100BASE-T
@@ -8,6 +9,7 @@ $ArchLinux: wikipedia computer abbrevs 2011-12-22
 10B-F	10BASE-F
 10B-FB	10BASE-FB
 10B-FL	10BASE-FL
+10B-FP	10BASE-FP
 10B-T	10BASE-T
 10B2	10BASE-2
 10B5	10BASE-5
@@ -15,10 +17,13 @@ $ArchLinux: wikipedia computer abbrevs 2011-12-22
 1NF	First Normal Form
 286	Intel 80286 processor
 2B1Q	2 Binary 1 Quaternary
+2FA	Two-factor authentication
 2GL	Second-Generation Programming Language
 2NF	Second Normal Form
 386	Intel 80386 processor
 3GL	Third-Generation Programming Language
+3GPP	3rd Generation Partnership Project - '3G comms
+3GPP2	3rd Generation Partnership Project 2
 3NF	Third Normal Form
 486	Intel 80486 processor
 4B5BLF	4 Byte 5 Byte Local Fiber
@@ -27,6 +32,7 @@ $ArchLinux: wikipedia computer abbrevs 2011-12-22
 5GL	Fifth-Generation Programming Language
 5NF	Fifth Normal Form
 6NF	Sixth Normal Form
+802.11	Wireless LAN
 8B10BLF	8 Byte 10 Byte Local Fiber
 AA	Anti-Aliasing
 AAA	Authentication Authorization, Accounting
@@ -36,6 +42,7 @@ AAL	ATM Adaptation Layer
 AALC	ATM Adaptation Layer Connection
 AARP	AppleTalk Address Resolution Protocol
 AAT	Average Access Time
+ABAC	Attribute-Based Access Control
 ABCL	Actor-Based Concurrent Language
 ABM	Asynchronous Balanced Mode
 ABR	Area Border Router
@@ -77,11 +84,12 @@ ALAC	Apple Lossless Audio Codec
 ALGOL	Algorithmic Language
 ALSA	Advanced Linux Sound Architecture
 ALU	Arithmetic and Logical Unit
-AM	Active Matrix
 AM	Access Method
+AM	Active Matrix
 AM	Active Monitor
 AM	Allied Mastercomputer
 AMD	Advanced Micro Devices
+AMOLED	Active-Matrix Organic Light-Emitting Diode
 AMQP	Advanced Message Queuing Protocol
 AMR	Audio Modem Riser
 ANN	Artificial Neural Network
@@ -100,8 +108,11 @@ ARPA	Address and Routing Parameter Area
 ARPA	Advanced Research Projects Agency
 ARPANET	Advanced Research Projects Agency Network
 AS	Access Server
+ASET	Automated Security Enhancement Tool
 ASG	Abstract Semantic Graph
 ASIC	Application-Specific Integrated Circuit
+ASIMO	Advanced Step in Innovative Mobility
+ASLR	Address Space Layout Randomization
 ASM	Algorithmic State Machine
 ASMP	Asymmetric Multiprocessing
 ASN.1	Abstract Syntax Notation 1
@@ -113,23 +124,33 @@ AST	Abstract Syntax Tree
 AT	Access Time
 AT	Active Terminator
 ATAG	Authoring Tool Accessibility Guidelines
+AV	Antivirus
 AVC	Advanced Video Coding
 AVI	Audio Video Interleaved
+AWFL	Acronym With Four Letters
 AWK	Aho Weinberger Kernighan
 AWT	Abstract Window Toolkit
 AJAX	Asynchronous JavaScript and XML
 AOE	ATA over Ethernet
+AUTHIP	Authenticated Internet Protocol
+B TAM	Basic Telecommunications Access Method
 B2B	Business-to-Business
 B2C	Business-to-Consumer
+B2E	Business-to-Employee
 BAL	Basic Assembly Language
+BAM	Block Availability Map
 BASIC	Beginner's All-Purpose Symbolic Instruction Code
 BBP	Baseband Processor
 BBS	Bulletin Board System
 BCD	Binary Coded Decimal
+BCD	Boot Configuration Data
 BCNF	Boyce–Codd normal form
 BEEP	Blocks Extensible Exchange Protocol
+BFD	Bidirectional Forwarding Detection
 BFD	Binary File Descriptor
 BFS	Breadth-First Search
+BFT	Byzantine Fault Tolerant
+BI	Business Intelligence
 BINAC	Binary Automatic Computer
 BIND	Berkeley Internet Name Domain
 BIOS	Basic Input Output System
@@ -142,7 +163,12 @@ BOOTP	Bootstrap Protocol
 BPDU	Bridge Protocol Data Unit
 BPEL	Business Process Execution Language
 BPL	Broadband over Power Lines
+BPM	Business Process Management
+BPM	Business Process Modeling
+BRM	Business Reference Model
+BRMS	Business Rule Management System
 BRR	Business Readiness Rating
+BRS	Broadband Radio Service
 BSA	Business Software Alliance
 BSB	Backside Bus
 BSS	Block Started by Symbol
@@ -151,10 +177,12 @@ BT	BitTorrent
 BT	Bluetooth
 BTAM	Basic Telecommunications Access Method
 BW	Bandwidth
+BYOD	Bring Your Own Device
 BASH	Bourne-again shell
 BIDI	Bi-Directional
 BLOG	Web Log
-CA	Certificate Authority
+BYTE	By eight (group of 8 bits)
+CA	Computer Accountancy
 CAE	Computer-Aided Engineering
 CAI	Computer-Aided Instruction
 CAID	Computer-Aided Industrial Design
@@ -162,12 +190,15 @@ CAM	Computer-Aided Manufacturing
 CAPTCHA	Completely Automated Public Turing Test to tell Computers and Humans Apart
 CAQ	Computer-Aided Quality Assurance
 CASE	Computer-Aided Software Engineering
+CAT	Computer-Aided Translation
 CD-R	CD-Recordable
 CD-ROM	CD Read-Only Memory
 CD-RW	CD-Rewritable
 CDE	Common Desktop Environment
+CDFS	Compact Disk File System
 CDMA	Code Division Multiple Access
 CDN	Content Delivery Network
+CDP	Cisco Discovery Protocol
 CDP	Continuous Data Protection
 CDSA	Common Data Security Architecture
 CERT	Computer Emergency Response Team
@@ -184,21 +215,28 @@ CHAP	Challenge-Handshake Authentication Protocol
 CHS	Cylinder-Head-Sector
 CIFS	Common Internet Filesystem
 CIM	Common Information Model
+CIM	Computationally Independent Model
+CIO	Chief Information Officer
+CIR	Committed information rate
 CISC	Complex Instruction Set Computer
 CJK	Chinese, Japanese, and Korean
 CJKV	Chinese, Japanese, Korean, and Vietnamese
 CLR	Common Language Runtime
 CM	Configuration Management
 CM	Content Management
+CMDB	Configuration Management Database
 CMMI	Capability Maturity Model Integration
+CMO	Current Mode of Operation
 CMOS	Complementary Metal-Oxide Semiconductor
 CMS	Content Management System
 CN	Canonical Name
 CN	Common Name
 CNC	Computer Numerical Control
+CNG	Cryptographic Next Generation
+CNG	Cryptography Next Generation
 CNR	Communications and Networking Riser
 COBOL	Common Business-Oriented Language
-COM	Component Object Model
+COM	Component Object Model or communication
 CORBA	Common Object Request Broker Architecture
 CP/M	Control Program/Monitor
 CPA	Cell Processor Architecture
@@ -209,6 +247,7 @@ CPS	characters per second
 CR	Carriage Return
 CRAN	Comprehensive R Archive Network
 CRC	Cyclic Redundancy Check
+CRLF	Carriage Return Line Feeds
 CRM	Customer Relationship Management
 CRS	Computer Reservations System
 CRUD	Create, Read, Update and Delete
@@ -216,6 +255,8 @@ CS	Cable Select
 CS	Computer Science
 CSE	Computer Science and Engineering
 CSI	Common System Interface
+CSM	Compatibility Support Module
+CSP	Cloud Service Provider
 CSP	Communicating Sequential Processes
 CSRF	Cross-Site Request Forgery
 CSS	Content-Scrambling System
@@ -225,6 +266,7 @@ CSV	Comma-Separated Values
 CT	Computerized Tomography
 CTAN	Comprehensive TeX Archive Network
 CTCP	Client-To-Client Protocol
+CTFE	Compile Time Function Execution
 CTI	Computer Telephony Integration
 CTL	Computational Tree Logic
 CTM	Close To Metal
@@ -233,6 +275,8 @@ CUA	Common User Access
 CVS	Concurrent Versioning System
 DAC	Digital-To-Analog Converter
 DAC	Discretionary Access Control
+DAL	Database Abstraction Layer
+DAO	Data Access Object
 DAO	Data Access Objects
 DAO	Disk-At-Once
 DAP	Directory Access Protocol
@@ -248,8 +292,10 @@ DCCP	Datagram Congestion Control Protocol
 DCL	Data Control Language
 DCMI	Dublin Core Metadata Initiative
 DCOM	Distributed Component Object Model
+DCS	Distributed Control System
 DD	Double Density
 DDE	Dynamic Data Exchange
+DDI	DNS DHCP &amp; IP Address management
 DDL	Data Definition Language
 DDOS	Distributed Denial of Service
 DEC	Digital Equipment Corporation
@@ -264,19 +310,23 @@ DIF	Data Integrity Field
 DIMM	Dual Inline Memory Module
 DIN	Deutsches Institut für Normung
 DIP	Dual In-line Package
+DISM	Deployment Image and Service Management Tool
 DIVX	Digital Video Express
 DKIM	Domain Keys Identified Mail
 DL	Download
 DLL	Dynamic Link Library
 DLNA	Digital Living Network Alliance
+DLP	Data loss protection
 DLP	Digital Light Processing
 DMCA	Digital Millennium Copyright Act
 DMI	Direct Media Interface
 DML	Data Manipulation Language
 DML	Definitive Media Library
 DMR	Dennis M. Ritchie
+DMZ	Demilitarized Zone
 DN	Distinguished Name
 DND	Drag-and-Drop
+DOA	Dead on Arrival
 DOCSIS	Data Over Cable Service Interface Specification
 DOM	Document Object Model
 DOS	Disk Operating System
@@ -285,10 +335,13 @@ DPC	Deferred Procedure Call
 DPI	Deep Packet Inspection
 DPMI	DOS Protected Mode Interface
 DPMS	Display Power Management Signaling
+DR	Disaster Recovery
 DR-DOS	Digital Research - Disk Operating System
+DRAM	Dynamic Random-Access Memory
 DRI	Direct Rendering Infrastructure
 DRM	Digital Rights Management
 DRM	Direct Rendering Manager
+DSA	Digital Signature Algorithm
 DSDL	Document Schema Definition Languages
 DSDM	Dynamic Systems Development Method
 DSL	Domain-Specific Language
@@ -297,14 +350,18 @@ DSN	Database Source Name
 DSN	Data Set Name
 DSP	Digital Signal Processor
 DSSSL	Document Style Semantics and Specification Language
+DTE	Data Terminal Equipment or data transfer rate
 DTP	Desktop Publishing
-DTR	Data Terminal Ready
+DTR	Data Terminal Ready or Data transfer rate
 DVD	Digital Video Disc
 DVD-R	DVD-Recordable
 DVD-ROM	DVD-Read Only Memory
 DVD-RW	DVD-Rewritable
 DVR	Digital Video Recorder
+DW	Data Warehouse
+E-MAIL	Electronic mail
 EAI	Enterprise Application Integration
+EAS	Exchange ActiveSync
 EBCDIC	Extended Binary Coded Decimal Interchange Code
 EBML	Extensible Binary Meta Language
 ECC	Elliptic Curve Cryptography
@@ -313,12 +370,15 @@ ECN	Explicit Congestion Notification
 ECOS	Embedded Configurable Operating System
 ECRS	Expense and Cost Recovery System
 EDA	Electronic Design Automation
+EDGE	Enhanced Data rates for GSM Evolution
 EDI	Electronic Data Interchange
 EDSAC	Electronic Delay Storage Automatic Calculator
 EDVAC	Electronic Discrete Variable Automatic Computer
 EEPROM	Electronically Erasable Programmable Read-Only Memory
 EFF	Electronic Frontier Foundation
 EFM	Eight-to-Fourteen Modulation
+EFM	Ethernet in the First Mile
+EFS	Encrypting File System
 EGA	Enhanced Graphics Array
 EIDE	Enhanced IDE
 EIGRP	Enhanced Interior Gateway Routing Protocol
@@ -328,17 +388,24 @@ ELM	ELectronic Mail
 EMACS	Editor MACroS
 EMS	Expanded Memory Specification
 ENIAC	Electronic Numerical Integrator And Computer
+EOD	End of Day
 EOL	End of Line
 EOM	End Of Message
+EOS	End OF Support
 EPIC	Explicitly Parallel Instruction Computing
 EPROM	Erasable Programmable Read-Only Memory
+ERD	Entity-Relationship Diagram
+ERM	Entity-Relationship Model
 ERP	Enterprise Resource Planning
+ESB	Enterprise service bus
 ESCON	Enterprise Systems Connection
 ESD	Electrostatic Discharge
 ESR	Eric Steven Raymond
 ETL	Extract, Transform, Load
+ETW	Event Tracing for Windows
 EUC	Extended Unix Code
 EULA	End User License Agreement
+EWMH	Extended Window Manager Hints
 EXT	EXTended file system
 FAP	FORTRAN Assembly Program
 FAQ	Frequently Asked Questions
@@ -347,7 +414,9 @@ FBDIMM	Fully Buffered Dual Inline Memory Module
 FC-AL	Fibre Channel Arbitrated Loop
 FCB	File Control Block
 FDC	Floppy Disk Controller
+FDD	Frequency-Division Duplexing
 FDD	Floppy Disk Drive
+FDM	Frequency-Division Multiplexing
 FDMA	Frequency-Division Multiple Access
 FDS	Fedora Directory Server
 FEC	Forward Error Correction
@@ -361,6 +430,8 @@ FL	Function Level
 FLAC	Free Lossless Audio Codec
 FLOPS	FLoating-Point Operations Per Second
 FLOSS	Free/Libre/Open Source Software
+FMC	Fixed Mobile Convergence "Mobile UC or Unified Communications over Wireless"
+FMO	Future Mode of Operation
 FOLDOC	Free On-line Dictionary of Computing
 FOSDEM	Free and Open source Software Developers' European Meeting
 FOSI	Formatted Output Specification Instance
@@ -374,19 +445,22 @@ FS	File System
 FSB	Front Side Bus
 FSF	Free Software Foundation
 FSM	Finite State Machine
+FTTA	Fiber To The Antenna
 FTTC	Fiber To The Curb
 FTTH	Fiber To The Home
 FTTP	Fiber To The Premises
 FUD	Fear Uncertainty Doubt
+FVEK	Full Volume Encryption Key
 FWS	Folding White Space
 FXP	File eXchange Protocol
 G11N	Globalization
 GB	Gigabyte
 GCC	GNU Compiler Collection
 GCJ	GNU Compiler for Java
-GCR	Group Code Recording
+GCR	Group Coded Recording
 GDB	GNU Debugger
 GDI	Graphics Device Interface
+GERAN	GSM EDGE Radio Access Network
 GFDL	GNU Free Documentation License
 GIMP	GNU Image Manipulation Program
 GIMPS	Great Internet Mersenne Prime Search
@@ -396,6 +470,7 @@ GML	Geography Markup Language
 GNOME	GNU Network Object Model Environment
 GOMS	Goals, Operators, Methods, and Selection rules
 GPASM	GNU PIC ASseMbler
+GPFS	General Parallel File System
 GPG	GNU Privacy Guard
 GPGPU	General-Purpose Computing on Graphics Processing Units
 GPIB	General-Purpose Instrumentation Bus
@@ -409,9 +484,12 @@ GTK+	GIMP Toolkit
 GUI	Graphical User Interface
 GUID	Globally Unique IDentifier
 GWT	Google Web Toolkit
+GYR	IT Networking
 GAS	GNU Assembler
 GB	Gigabit
+HA	High Availability
 HAL	Hardware Abstraction Layer
+HASP	Houston Automatic Spooling Priority
 HBA	Host Bus Adapter
 HCI	Human Computer Interaction
 HCL	Hardware Compatibility List
@@ -420,28 +498,34 @@ HD DVD	High Definition DVD
 HDD	Hard Disk Drive
 HDL	Hardware Description Language
 HDMI	High-Definition Multimedia Interface
+HECI	Host Embedded Controller Interface
 HF	High Frequency
+HFS	Hierarchical File System
 HHD	Hybrid Hard Drive
 HID	Human Interface Device
 HIG	Human Interface Guidelines
 HIRD	Hurd of Interfaces Representing Depth
 HLASM	High Level ASseMbler
+HLS	HTTP Live Streaming
 HMA	High Memory Area
 HP	Hewlett-Packard
 HPC	High-Performance Computing
 HPFS	High Performance File System
+HSDPA	High-Speed Downlink Packet Access
 HSM	Hierarchical Storage Management
 HT	Hyper Threading
 HTC	High-Throughput Computing
 HTM	Hierarchical Temporal Memory
 HTML	Hypertext Markup Language
 HTTP	Hypertext Transfer Protocol
+HTTPS	HTTP Secure
 HTTPD	Hypertext Transport Protocol Daemon
 HTX	HyperTransport eXpansion
 HURD	Hird of Unix-Replacing Daemons
 HVD	Holographic Versatile Disc
 HZ	Hertz
-I/O	Input/Output
+I/F	Interface
+I/O	Input/output
 I18N	Internationalization
 I2C	Inter-Integrated Circuit
 IANA	Internet Assigned Numbers Authority
@@ -449,10 +533,14 @@ IBM	International Business Machines
 ICANN	Internet Corporation for Assigned Names and Numbers
 ICE	In-Circuit Emulator
 ICE	Intrusion Countermeasure Electronics
+ICH	I/O Controller Hub
 ICP	Internet Cache Protocol
+ICS	Internet Connection Sharing
 ICT	Information and Communication Technology
 IDE	Integrated Development Environment
 IDF	Intermediate Distribution Frame
+IDF	Intermediate Data Format
+IDL	Interactive Data Language
 IDL	Interface Definition Language
 IDS	Intrusion Detection System
 IE	Internet Explorer
@@ -469,26 +557,42 @@ IMAP	Internet Message Access Protocol
 IME	Input Method Editor
 INFOSEC	Information Systems Security
 IP	Intellectual Property
+IPAM	IP Address Management
 IPC	Inter-Process Communication
 IPL	Initial Program Load
+IPMI	Intelligent Platform Management Interface
 IPO	Inter Procedural Optimization
 IPP	Internet Printing Protocol
+IPS	In-Plane Switching
+IPS	Instructions Per Second
 IPS	Intrusion Prevention System
 IPTV	Internet Protocol Television
 IPX	Internetwork Packet Exchange
+IPV4	Internet Protocol version 4
+IPV6	Internet Protocol version 6
+IR	Intermediate Representation
+IRI	Internationalized Resource Identifier
 IRP	I/O Request Packet
 IS	Information Systems
+IS-IS	Intermediate System to Intermediate System
 ISA	Instruction Set Architecture
 ISAM	Indexed Sequential Access Method
+ISATAP	Intra-Site Automatic Tunnel Addressing Protocol
 ISC	Internet Storm Center
 ISO	International Organization for Standardization
 ISPF	Interactive System Productivity Facility
 ISR	Interrupt Service Routine
 ISV	Independent Software Vendor
 IT	Information Technology
+ITIL	Information Technology Infrastructure Library
 ITL	Interval Temporal Logic
 ITU	International Telecommunication Union
+IVCR	Interactive Virtual Classroom
+IVRS	Interactive Voice Response System
+IOT	Internet of Things
 IRDA	Infrared Data Association
+I²C	Inter-Integrated Circuit
+I²S	Integrated Interchip Sound
 J2EE	Java 2 Enterprise Edition
 J2ME	Java 2 Micro Edition
 J2SE	Java 2 Standard Edition
@@ -501,12 +605,14 @@ JCP	Java Community Process
 JDBC	Java Database Connectivity
 JDK	Java Development Kit
 JDS	Java Desktop System
+JEE	Java Enterprise Edition
 JES	Job Entry Subsystem
 JFC	Java Foundation Classes
 JFET	Junction Field-Effect Transistor
 JFS	IBM Journaling File System
 JINI	Jini Is Not Initials
 JIT	Just-In-Time
+JME	Java Micro Edition
 JMS	Java Message Service
 JMX	Java Management Extensions
 JNDI	Java Naming and Directory Interface
@@ -514,6 +620,7 @@ JNI	Java Native Interface
 JNZ	Jump non-zero
 JRE	Java Runtime Environment
 JS	JavaScript
+JSE	Java Standard Edition
 JSON	JavaScript Object Notation
 JSP	Jackson Structured Programming
 JSP	JavaServer Pages
@@ -529,17 +636,22 @@ KM	Knowledge Machine
 KRL	Knowledge Representation Language
 KVM	Keyboard, Video, Mouse
 KB	Kilobit
+KIB	Kibibyte
 L10N	Localization
 L2TP	Layer two Tunneling Protocol
+LACP	Link Aggregation Control Protocol
 LAMP	Linux Apache MySQL Perl
 LAMP	Linux Apache MySQL PHP
 LAMP	Linux Apache MySQL Python
+LB	Load Balancer
 LCOS	Liquid Crystal On Silicon
+LCR	Least Cost Routing
 LE	Logical Extents
 LED	Light-Emitting Diode
 LF	Line Feed
 LF	Low Frequency
 LFS	Linux From Scratch
+LGA	Land Grid Array
 LGPL	Lesser General Public License
 LIB	LIBrary
 LIF	Low Insertion Force
@@ -551,9 +663,11 @@ LM	Lan Manager
 LOC	Lines of Code
 LPC	Lars Pensjö C
 LPI	Linux Professional Institute
+LRU	Least Recently Used
 LSB	Least Significant Bit
 LSB	Linux Standard Base
 LSI	Large-Scale Integration
+LTE	Long Term Evolution
 LTL	Linear Temporal Logic
 LTR	Left-to-Right
 LUG	Linux User Group
@@ -568,6 +682,7 @@ MANET	Mobile Ad-Hoc Network
 MAPI	Messaging Application Programming Interface
 MB	Megabyte
 MBCS	Multi Byte Character Set
+MBD	Model-Based Design
 MCA	Micro Channel Architecture
 MCA	Microsoft Certified Architect
 MCAD	Microsoft Certified Application Developer
@@ -577,6 +692,7 @@ MCDST	Microsoft Certified Desktop Support Technician
 MCITP	Microsoft Certified Information Technology Professional
 MCM	Microsoft Certified Master
 MCP	Microsoft Certified Professional
+MCPC	Multiple Channels Per Carrier
 MCPD	Microsoft Certified Professional Developer
 MCSA	Microsoft Certified Systems Administrator
 MCSD	Microsoft Certified Solution Developer
@@ -586,8 +702,10 @@ MCTS	Microsoft Certified Technology Specialist
 MDA	Mail Delivery Agent
 MDA	Model-Driven Architecture
 MDA	Monochrome Display Adapter
+MDD/MDSD	Model-Driven (Software) Development
 MDF	Main Distribution Frame
 MDI	Multiple Document Interface
+ME	Microsoft Edge
 ME	[Windows] Millennium Edition
 MF	Medium Frequency
 MFC	Microsoft Foundation Classes
@@ -602,7 +720,10 @@ MIPS	Microprocessor without Interlocked Pipeline Stages
 MIS	Management Information Systems
 MISD	Multiple Instruction, Single Data
 MIT	Massachusetts Institute of Technology
+MMC	Microsoft Management Console
+MMDS	Multichannel Multipoint Distribution Service
 MMDS	Mortality Medical Data System
+MMF	Multi-Mode (optical) Fiber
 MMI	Man Machine Interface.
 MMIO	Memory-Mapped I/O
 MMORPG	Massively Multiplayer Online Role-Playing Game
@@ -610,9 +731,12 @@ MMX	Multi-Media Extensions
 MNG	Multiple-image Network Graphics
 MOM	Message-Oriented Middleware
 MOO	MUD Object Oriented
+MOP	Meta-Object Protocol
 MOS	Microsoft Office Specialist
 MOSFET	Metal-Oxide Semiconductor Field Effect Transistor
+MOTD	Message Of The Day
 MOUS	Microsoft Office User Specialist
+MOV	Apple QuickTime Multimedia File
 MPAA	Motion Picture Association of America
 MPEG	Motion Pictures Experts Group
 MPL	Mozilla Public License
@@ -626,6 +750,7 @@ MSDN	Microsoft Developer Network
 MSI	Medium-Scale Integration
 MSI	Message Signaled Interrupt
 MSI	Microsoft Installer
+MSN	Microsoft Network
 MT	Machine Translation
 MTA	Microsoft Technology Associate
 MTBF	Mean Time Between Failures
@@ -633,21 +758,25 @@ MUD	Multi-User Dungeon
 MVC	Model-View-Controller
 MVP	Most Valuable Professional
 MVS	Multiple Virtual Storage
+MWC	Mobile World Congress
 MX	Mail exchange
 MXF	Material Exchange Format
 MB	Megabit
 MOBO	Motherboard
 NACK	Negative ACKnowledgement
 NAK	Negative AcKnowledge Character
+NAP	Network Access Protection
 NAS	Network-Attached Storage
 NASM	Netwide ASseMbler
 NCP	NetWare Core Protocol
 NCSA	National Center for Supercomputing Applications
+NDIS	Network Driver Interface Specification
 NDPS	Novell Distributed Print Services
 NDS	Novell Directory Services
 NEP	Network Equipment Provider
 NEXT	Near-End CrossTalk
 NFA	Nondeterministic Finite Automaton
+NFC	Near field communication
 NGL	aNGeL
 NGSCB	Next-Generation Secure Computing Base
 NI	National Instruments
@@ -668,6 +797,8 @@ NPTL	Native POSIX Thread Library
 NPU	Network Processing Unit
 NS	Netscape
 NSA	National Security Agency
+NSA	Network Security Appliance
+NSI	Network Service Interface
 NSPR	Netscape Portable Runtime
 NSS	Novell Storage Service
 NSS	Network Security Services
@@ -682,12 +813,14 @@ NVR	Network Video Recorder
 NVRAM	Non-Volatile Random Access Memory
 NAN	Not a Number
 NETBIOS	Network Basic Input/Output System
+NETBT	NetBIOS over TCP/IP
 OASIS	Organization for the Advancement of Structured Information Standards
 OAT	Operational Acceptance Testing
 OBSAI	Open Base Station Architecture Initiative
-ODBC	Open DataBase Connectivity
+ODBC	Open Database Connectivity
 OES	Open Enterprise Server
 OFTC	Open and Free Technology Community
+OID	Object Identifier
 OLAP	Online Analytical Processing
 OLE	Object Linking and Embedding
 OLED	Organic Light Emitting Diode
@@ -695,6 +828,7 @@ OLPC	One Laptop per Child
 OLTP	Online Transaction Processing
 OMF	Object Module Format
 OMG	Object Management Group
+OMR	Optical Mark Reader
 OO	Object-Oriented
 OO	OpenOffice
 OOE	Out-of-Order Execution
@@ -704,17 +838,17 @@ OOTB	Out of the box
 OOO	OpenOffice.org
 OPML	Outline Processor Markup Language
 ORB	Object Request Broker
-ORM	Oject-Relational Mapping
+ORM	Object-Relational Mapping
 OS	Open Source
 OS	Operating System
 OSCON	O'Reilly Open Source CONvention
-OSDN	Open Source Developer Network
+OSDN	Open Source Development Network
 OSI	Open Source Initiative
 OSS	Open Sound System
 OSS	Open-Source Software
 OSS	Operations Support System
 OSTG	Open Source Technology Group
-OUI	Organizationally Unique Identifier
+OUI	Organisationally Unique Identifier
 OOOE	Out-of-Order Execution
 P2P	Peer-To-Peer
 PAC	Programmable Automation Controller
@@ -722,7 +856,8 @@ PAN	Personal Area Network
 PAP	Password Authentication Protocol
 PARC	Palo Alto Research Center
 PATA	Parallel ATA
-PC DOS	Personal Computer Disk Operating System
+PBS	Portable Batch System
+PC DOS	Personal Computer Disc Operating System
 PCB	Printed Circuit Board
 PCB	Process Control Block
 PCIE	PCI Express
@@ -732,15 +867,20 @@ PCRE	Perl Compatible Regular Expressions
 PD	Public Domain
 PDA	Personal Digital Assistant
 PDF	Portable Document Format
+PDH	Plesiochronous Digital Hierarchy
 PDP	Programmed Data Processor
 PE	Physical Extents
 PERL	Practical Extraction and Reporting Language
+PFA	Please Find Attachment
+PG	Peripheral Gateway
 PGA	Pin Grid Array
+PGA	Programmable Gate Array
 PGO	Profile-Guided Optimization
 PHP	PHP: Hypertext Preprocessor
 PIC	Peripheral Interface Controller
 PID	Proportional-Integral-Derivative
 PIM	Personal Information Manager
+PIM	Platform Independent Model
 PINE	Program for Internet News and Email
 PKCS	Public Key Cryptography Standards
 PKI	Public Key Infrastructure
@@ -750,21 +890,25 @@ PL/P	Programming Language for Prime
 PLC	Power Line Communication
 PLC	Programmable Logic Controller
 PLD	Programmable Logic Device
-PLT	Power Line Telecoms
+PLT	Power Line Telecommunications
 PMM	POST Memory Manager
+PNRP	Peer Name Resolution Protocol
 POID	Persistent Object Identifier
+POJO	Plain Old Java Object
 POP	Point of Presence
 POP3	Post Office Protocol v3
-POSIX	Portable Operating System Interface
+POSIX	Portable Operating System Interface, formerly IEEE-IX
 POST	Power-On Self Test
 PPC	PowerPC
 PPI	Pixels Per Inch
 PPPOA	PPP over ATM
 PPPOE	PPP over Ethernet
 PPTP	Point-to-Point Tunneling Protocol
+PR	Pull Request
 PS	PostScript
 PS/2	Personal System/2
 PSA	Professional Services Automation
+PSM	Platform Specific Model
 PSU	Power Supply Unit
 PSVI	Post-Schema-Validation Infoset
 PTS-DOS	PhysTechSoft - Disk Operating System
@@ -773,31 +917,37 @@ PVG	Physical Volume Group
 PVR	Personal Video Recorder
 PXE	Preboot Execution Environment
 PXI	PCI eXtensions for Instrumentation
+PAAS	Platform as a Service
 PNP	Plug-and-Play
 POE	Power over Ethernet
 QA	Quality Assurance
 QDR	Quad Data Rate
 QFP	Quad Flat Package
 QOTD	Quote of the Day
+QSOP	Quarter Small Outline Package
 QTAM	Queued Teleprocessing Access Method
 QT	Quasar Toolkit
 RACF	Resource Access Control Facility
 RAD	Rapid Application Development
 RADIUS	Remote Authentication Dial In User Service
 RAID	Redundant Array of Independent Disks
+RAII	Resource Acquisition Is Initialization
 RAIT	Redundant Array of Inexpensive Tapes
 RARP	Reverse Address Resolution Protocol
 RAS	Reliability, Availability and Serviceability
-RAS	Remote Access Service
+RAS	Remote access service
 RC	Region Code
 RC	Release Candidate
 RC	Run Commands
-RDBMS	Relational DataBase Management System
+RD	Remote Desktop
+RDBMS	Relational Database Management System
+RDC	Remote Desktop Connection
 RDF	Resource Description Framework
 RDM	Relational Data Model
 RDOS	Real-time Disk Operating System
+RDP	Remote Desktop Protocol
 RDS	Remote Data Services
-REFAL	REcursive Functions Algorithmic Language
+REFAL	Recursive Functions Algorithmic Language
 REST	Representational State Transfer
 RF	Radio Frequency
 RFI	Radio Frequency Interference
@@ -820,6 +970,7 @@ ROMB	Read-Out Motherboard
 RPC	Remote Procedure Call
 RPG	Report Program Generator
 RPM	RPM Package Manager
+RRAS	Routing and Remote Access Service
 RSA	Rivest Shamir Adleman
 RSI	Repetitive Strain Injury
 RSS	Radio Service Software
@@ -833,8 +984,12 @@ RTOS	Real-Time Operating System
 RTP	Real-time Transport Protocol
 RTS	Ready To Send
 RTSP	Real Time Streaming Protocol
+RTTI	Run-time Type Information
+RWD	Responsive Web Design
 S/MIME	Secure/Multipurpose Internet Mail Extensions
+SAM	Security Account Manager
 SAN	Storage Area Network
+SAS	Serial attached SCSI
 SATA	Serial ATA
 SAX	Simple API for XML
 SBOD	Spinning Beachball of Death
@@ -843,10 +998,13 @@ SBU	Standard Build Unit
 SCADA	Supervisory Control And Data Acquisition
 SCID	Source Code in Database
 SCP	Secure Copy
+SCPC	Single Channel Per Carrier
 SCPI	Standard Commands for Programmable Instrumentation
+SCSA	Secure Content Storage Association
 SCTP	Stream Control Transmission Protocol
 SD	Secure Digital
 SDDL	Security Descriptor Definition Language
+SDH	Synchronous Digital Hierarchy
 SDI	Single Document Interface
 SDIO	Secure Digital Input Output
 SDK	Software Development Kit
@@ -856,6 +1014,7 @@ SDP	Session Description Protocol
 SDR	Software-Defined Radio
 SDSL	Symmetric DSL
 SE	Single Ended
+SEC	Single Edge Contact
 SEI	Software Engineering Institute
 SEO	Search Engine Optimization
 SFTP	Secure FTP
@@ -863,6 +1022,7 @@ SFTP	Simple File Transfer Protocol
 SFTP	SSH File Transfer Protocol
 SGI	Silicon Graphics, Incorporated
 SGML	Standard Generalized Markup Language
+SGR	Select Graphic Rendition
 SHA	Secure Hash Algorithm
 SHDSL	Single-pair High-speed Digital Subscriber Line
 SIGCAT	Special Interest Group on CD-ROM Applications and Technology
@@ -871,6 +1031,7 @@ SIMD	Single Instruction, Multiple Data
 SIMM	Single Inline Memory Module
 SIP	Supplementary Ideographic Plane
 SISD	Single Instruction, Single Data
+SISO	Single-Input and Single-Output
 SLED	SUSE Linux Enterprise Desktop
 SLES	SUSE Linux Enterprise Server
 SLI	Scalable Link Interface
@@ -880,9 +1041,12 @@ SLOC	Source Lines of Code
 SMA	SubMiniature version A
 SMB	Server Message Block
 SMBIOS	System Management BIOS
+SME	Subject Matter Expert
+SMF	Single-Mode (optical) Fiber
 SMIL	Synchronized Multimedia Integration Language
 SMP	Supplementary Multilingual Plane
 SMP	Symmetric Multi-Processing
+SMPS	Switch Mode Power Supply
 SMS	Short Message Service
 SMS	System Management Server
 SMT	Simultaneous Multithreading
@@ -891,26 +1055,35 @@ SNTP	Simple Network Time Protocol
 SO-DIMM	Small Outline DIMM
 SOA	Service-Oriented Architecture
 SOAP	Simple Object Access Protocol
+SOAP	Symbolic Optimal Assembly Program
 SOE	Standard Operating Environment
 SOHO	Small Office/Home Office
 SOI	Silicon On Insulator
+SOPA	Stop Online Piracy Act
 SP	Service Pack
+SPA	Single Page Application
 SPARC	Scalable Processor Architecture
 SPF	Sender Policy Framework
 SPI	Serial Peripheral Interface
 SPI	Stateful Packet Inspection
+SPM	Software project management
 SPMD	Single Program, Multiple Data
 SQL	Structured Query Language
+SSA	Static Single Assignment
 SSD	Software Specification Document
 SSD	Solid-State Drive
+SSDP	Simple Service Discovery Protocol
 SSE	Streaming SIMD Extensions
 SSI	Server Side Includes
 SSI	Single-System Image
 SSI	Small-Scale Integration
 SSID	Service Set Identifier
 SSL	Secure Socket Layer
+SSO	Single Sign On
 SSP	Supplementary Special-purpose Plane
 SSSE	Supplementary Streaming SIMD Extensions
+SSSP	Single Source Shortest Path
+SSTP	Secure Socket Tunneling Protocol
 SUS	Single UNIX Specification
 SUSE	Software und System-Entwicklung
 SVC	Scalable Video Coding
@@ -923,22 +1096,26 @@ SAAS	Software as a Service
 SOC	System-on-a-Chip
 SYSOP	System operator
 TAO	Track-At-Once
+TAPI	Telephony Application Programming Interface
 TASM	Turbo ASseMbler
 TB	TeraByte
 TCP/IP	Transmission Control Protocol/Internet Protocol
 TCU	Telecommunication Control Unit
-TDMA	Time Division Multiple Access
+TDMA	Time-Division Multiple Access
+TFT	Thin-Film Transistor
 TI	Texas Instruments
 TLA	Three-Letter Acronym
 TLD	Top-Level Domain
 TLS	Thread-Local Storage
+TLV	Type-length-value
 TNC	Terminal Node Controller
 TNC	Threaded Neill-Concelman connector
 TPF	Transaction Processing Facility
+TPM	Trusted Platform Module
 TROFF	Trace Off
 TRON	Trace On
 TRON	The Real-time Operating system Nucleus
-TRS-DOS	Tandy Radio Shack - Disk Operating System
+TRSDOS	Tandy Radio Shack - Disk Operating System
 TSO	Time Sharing Option
 TSP	Traveling Salesman Problem
 TSR	Terminate and Stay Resident
@@ -947,6 +1124,7 @@ TTF	TrueType Font
 TTL	Transistor-Transistor Logic
 TTS	Text-to-Speech
 TUCOWS	The Ultimate Collection of Winsock Software
+TUG	TeX Users Group
 TWAIN	Technology Without An Interesting Name
 UAAG	User Agent Accessibility Guidelines
 UAC	User Account Control
@@ -963,25 +1141,32 @@ UMA	Upper Memory Area
 UMB	Upper Memory Block
 UML	User-Mode Linux
 UMPC	Ultra-Mobile Personal Computer
+UMTS	Universal Mobile Telecommunications System
 UNC	Universal Naming Convention
+UNIVAC	Universal Automatic Computer (By MKS)
 URN	Uniform Resource Name
 USR	U.S. Robotics
 UTC	Coordinated Universal Time
 UTF	Unicode Transformation Format
+UTRAN	Universal Terrestrial Radio Access Network
 UUCP	Unix to Unix Copy
 UUID	Universally Unique Identifier
 UUN	Universal User Name
 UVC	Universal Virtual Computer
+UWP	Universal Windows Platform
 UX	User Experience
 VB	Visual Basic
 VBA	Visual Basic for Applications
 VBS	Visual Basic Script
 VCPI	Virtual Control Program Interface
+VDI	Virtual Desktop Infrastructure
+VDM	Virtual DOS machine
 VDSL	Very High Bitrate Digital Subscriber Line
 VFAT	Virtual FAT
 VFS	Virtual File System
 VG	Volume Group
 VGA	Video Graphics Array
+VHD 	Virtual Hard Disk
 VHF	Very High Frequency
 VLB	Vesa Local Bus
 VLF	Very Low Frequency
@@ -989,6 +1174,7 @@ VLIW	Very Long Instruction Word
 VLSI	Very-Large-Scale Integration
 VM	Virtual Machine
 VM	Virtual Memory
+VMM	Virtual Machine Monitor
 VNC	Virtual Network Computing
 VOD	Video On Demand
 VPU	Visual Processing Unit
@@ -998,6 +1184,7 @@ VSAM	Virtual Storage Access Method
 VSAT	Very Small Aperture Terminal
 VT	Video Terminal?
 VTAM	Virtual Telecommunications Access Method
+VTL	Virtual Tape Library
 VOIP	Voice over Internet Protocol
 W3C	World Wide Web Consortium
 WAFS	Wide Area File Services
@@ -1012,16 +1199,23 @@ WDM	Wavelength-Division Multiplexing
 WFI	Wait For Interrupt
 WINS	Windows Internet Name Service
 WMA	Windows Media Audio
+WMI	Windows Management Instrumentation
 WMV	Windows Media Video
+WNS	Windows Push Notification Service
 WOL	Wake-on-LAN
 WOM	Wake-on-Modem
 WOR	Wake-on-Ring
+WORA	Write once, run anywhere
+WORE	Write once, run everywhere
+WPAD	Web Proxy Autodiscovery Protocol
 WPAN	Wireless Personal Area Network
 WPF	Windows Presentation Foundation
+WS-D	Web Services-Discovery
 WSDL	Web Services Description Language
 WSFL	Web Services Flow Language
 WUSB	Wireless Universal Serial Bus
 WWAN	Wireless Wide Area Network
+WWDC	Apple Inc.|Apple World Wide Developer Conference
 WWID	World Wide Identifier
 WWN	World Wide Name
 WZC	Wireless Zero Configuration
@@ -1029,6 +1223,7 @@ WEBDAV	WWW Distributed Authoring and Versioning
 WI-FI	Wireless Fidelity
 WIMAX	Worldwide Interoperability for Microwave Access
 WINFS	Windows Future Storage
+WINRT	Windows RunTime
 XAG	XML Accessibility Guidelines
 XAML	eXtensible Application Markup Language
 XCBL	XML Common Business Library
@@ -1045,6 +1240,7 @@ XP	Extreme Programming
 XPCOM	Cross Platform Component Object Model
 XPI	XPInstall
 XPIDL	Cross-Platform IDL
+XPS	XML Paper Specification
 XSD	XML Schema Definition
 XSL-FO	eXtensible Stylesheet Language Formatting Objects
 XSLT	eXtensible Stylesheet Language Transformations
@@ -1052,24 +1248,41 @@ XSS	Cross-Site Scripting
 XTF	eXtensible Tag Framework
 XTF	eXtended Triton Format
 XUL	XML User Interface Language
+XVGA	Extended Video Graphics Adapter
 Y2K	Year Two Thousand
 YAAF	Yet Another Application Framework
 YACC	Yet Another Compiler Compiler
 YAML	YAML Ain't Markup Language
 YAST	Yet another Setup Tool
+ZCAV	Zone Constant Angular Velocity
+ZCS	Zero Code Suppression
+ZIF	Zero Insertion Force
+ZIFS	Zero Insertion Force Socket
+ZIP	ZIP file archive
+ZISC	Zero Instruction Set Computer
+ZMA	Zone Multicast Address
+ZOI	Zero One Infinity
+ZOPE	Z Object Publishing Environment
+ZPL	Z-level Programming Language
 BIN	binary
 BIT	binary digit
 CC	C Compiler
 DEV	development
 EID	electronic ID card
+ESATA	external SATA
+FSCK	File System Check
 IBCS	Intel Binary Compatibility Standard
 ISCSI	Internet Small Computer System Interface
 ISNS	Internet Storage Name Service
 JWZ	Jamie Zawinski
 KHZ	Kilohertz
+QWAVE	Quality Windows Audio/Video Experience
+RD	remove directory
 REGEX	Regular Expression
 REGEXP	Regular Expression
+RMDIR	remove directory
 SBIN	superuser binary
+SBS	Small Business Server
 SU	superuser
 TMP	temporary
 USR	user

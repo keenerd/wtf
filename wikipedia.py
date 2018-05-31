@@ -1,14 +1,14 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 
-# http://en.wikipedia.org/w/index.php?title=List_of_computing_and_IT_abbreviations&action=edit
+# https://en.wikipedia.org/w/index.php?title=List_of_computing_and_IT_abbreviations&action=edit
 
 import re, urllib2
 from collections import defaultdict
 from BeautifulSoup import BeautifulSoup
 
 pull = lambda url: urllib2.urlopen(urllib2.Request(url))
-wikip = lambda article: pull('http://en.wikipedia.org/w/index.php?title=%s&action=edit' % article)
+wikip = lambda article: pull('https://en.wikipedia.org/w/index.php?title=%s&action=edit' % article)
 
 # todo: List_of_file_formats
 
@@ -44,9 +44,10 @@ def computing_abbrev():
     ad = defaultdict(list)
     for pair in re.findall('\* \[\[.*—.*', str(text)):
         try:
-            a,d = pair.split('—')
-            a = a[4:-2].rpartition('|')[-1]
-            ad[a].append(d)
+            a,_,d = pair.partition('—')
+            a = a[4:].rpartition('|')[-1].replace(']]', '')
+            d = d.replace('[[', '').replace(']]', '').replace('—', ' - ')
+            ad[a].append(d.strip())
         except:
             #print 'failed on', pair
             continue
@@ -60,7 +61,7 @@ def main():
     stk = stock()
 
     tech = open('acronyms.computing', 'w')
-    tech.write('$ArchLinux: wikipedia computer abbrevs 2011-12-22\n\n')
+    tech.write('$ArchLinux: wikipedia computer abbrevs 2018-05-31\n\n')
     for a,ds in sorted(ad.items()):
         for d in ds:
             if exists(a, d, stk):

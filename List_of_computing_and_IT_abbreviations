@@ -1,96 +1,73 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html lang="en" dir="ltr" class="client-nojs" xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
 <head>
-<title>Editing List of computing and IT abbreviations - Wikipedia, the free encyclopedia</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="Content-Style-Type" content="text/css" />
-<meta name="generator" content="MediaWiki 1.18wmf1" />
-<meta name="robots" content="noindex,nofollow" />
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit" />
-<link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit" />
-<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
-<link rel="shortcut icon" href="/favicon.ico" />
-<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
-<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
-<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
-<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
-<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
-<!--[if IE 8]><link rel="stylesheet" href="//bits.wikimedia.org/skins-1.18/common/IE80Fixes.css?303-4" type="text/css" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
-<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
-<style type="text/css" media="all">a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}a.new,#quickbar a.new{color:#ba0000}
-
-/* cache key: enwiki:resourceloader:filter:minify-css:4:c88e2bcd56513749bec09a7e29cb3ffa */</style>
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
-<script type="text/javascript">if ( window.mediaWiki ) {
-	mw.config.set({"wgCanonicalNamespace": "", "wgCanonicalSpecialPageName": false, "wgNamespaceNumber": 0, "wgPageName": "List_of_computing_and_IT_abbreviations", "wgTitle": "List of computing and IT abbreviations", "wgCurRevisionId": 464956025, "wgArticleId": 50969, "wgIsArticle": false, "wgAction": "edit", "wgUserName": null, "wgUserGroups": ["*"], "wgCategories": [], "wgBreakFrames": true, "wgRestrictionEdit": [], "wgRestrictionMove": [], "wgSearchNamespaces": [0], "wgFlaggedRevsParams": {"tags": {"status": {"levels": 1, "quality": 2, "pristine": 3}}}, "wgStableRevisionId": null, "wgVectorEnabledModules": {"collapsiblenav": true, "collapsibletabs": true, "editwarning": true, "expandablesearch": false, "footercleanup": false, "sectioneditlinks": false, "simplesearch": true, "experiments": true}, "wgWikiEditorEnabledModules": {"toolbar": true, "dialogs": true, "hidesig": true, "templateEditor": false, "templates": false, "preview": false, "previewDialog": false, "publish": false, "toc": false}, "wgTrackingToken": "87204af59aa9dfd49613e5fc349f419d", "wikilove-recipient": "", "wikilove-edittoken": "+\\", "wikilove-anon": 0, "mbEditToken": "+\\", "Geo": {"city": "", "country": ""}, "wgNoticeProject": "wikipedia"});
-}
-</script><script type="text/javascript">if ( window.mediaWiki ) {
-	mw.loader.load(["mediawiki.page.startup"]);
-}
-</script>
-<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.18/vector/csshover.min.htc")}</style><![endif]--></head>
-<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-List_of_computing_and_IT_abbreviations action-edit skin-vector">
-		<div id="mw-page-base" class="noprint"></div>
+<meta charset="UTF-8"/>
+<title>Editing List of computing and IT abbreviations - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_computing_and_IT_abbreviations","wgTitle":"List of computing and IT abbreviations","wgCurRevisionId":842918502,"wgRevisionId":0,"wgArticleId":50969,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"List_of_computing_and_IT_abbreviations","wgRelevantArticleId":50969,"wgRequestId":"WxAuugpAMEkAABvqbQEAAABM","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgEditMessage":"editing","wgAjaxEditStash":true,"wgEditSubmitButtonLabelPublish":true,"wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"]});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.wikiEditor.styles":"ready","mediawiki.action.edit.styles":"ready","mediawiki.editfont.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","oojs-ui.styles.textures":"ready","mediawiki.widgets.styles":"ready","oojs-ui.styles.icons-content":"ready","oojs-ui.styles.icons-alerts":"ready","oojs-ui.styles.icons-interactions":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","ext.charinsert.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});mw.loader.load(["ext.wikiEditor","mediawiki.action.edit","mediawiki.toolbar","mediawiki.action.edit.editWarning","wikibase.client.action.edit.collapsibleFooter","mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.charinsert","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.3d","ext.centralNotice.geoIP","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.charinsert.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.action.edit.styles%7Cmediawiki.editfont.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.widgets.styles%7Coojs-ui-core.styles%7Coojs-ui.styles.icons-alerts%2Cicons-content%2Cicons-interactions%2Cindicators%2Ctextures%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.wikiEditor.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.32.0-wmf.5"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-List_of_computing_and_IT_abbreviations rootpage-List_of_computing_and_IT_abbreviations skin-vector action-edit">		<div id="mw-page-base" class="noprint"></div>
 		<div id="mw-head-base" class="noprint"></div>
-		<!-- content -->
-		<div id="content">
+		<div id="content" class="mw-body" role="main">
 			<a id="top"></a>
-			<div id="mw-js-message" style="display:none;"></div>
-						<!-- sitenotice -->
-			<div id="siteNotice"><!-- centralNotice loads here --></div>
-			<!-- /sitenotice -->
-						<!-- firstHeading -->
-			<h1 id="firstHeading" class="firstHeading">Editing List of computing and IT abbreviations</h1>
-			<!-- /firstHeading -->
-			<!-- bodyContent -->
-			<div id="bodyContent">
-								<!-- subtitle -->
-				<div id="contentSub"></div>
-				<!-- /subtitle -->
-																<!-- jumpto -->
-				<div id="jump-to-nav">
-					Jump to: <a href="#mw-head">navigation</a>,
-					<a href="#p-search">search</a>
-				</div>
-				<!-- /jumpto -->
-								<!-- bodycontent -->
-				<div id="editnotice-area" class="editnotice-area" style="clear: both; width: 100%;"><div class="editnotice-namespace" style="width: 100%;">  </div><div class="editnotice-link editnotice-redlink sysop-show accountcreator-show" style="clear: both; float: right; margin: 0px 0.8em; padding: 0; line-height: 1em; display: none;"> <small><a href="/w/index.php?title=Template:Editnotices/Page/List_of_computing_and_IT_abbreviations&amp;action=edit&amp;redlink=1" class="new" title="Template:Editnotices/Page/List of computing and IT abbreviations (page does not exist)">Page notice</a></small> </div><div style="clear: both;"></div> </div>
-<div id="mw-anon-edit-warning">
-<table id="anoneditwarning" class="plainlinks fmbox fmbox-editnotice" style="background-color:#ffffcc; font-family:sans-serif; border:1px solid #A7D7F9; width:90%; margin-bottom: 0.5em !important; margin:auto;">
-<tr>
-<td class="mbox-image">
-  <img alt="" src="//upload.wikimedia.org/wikipedia/en/3/31/Imbox_notice.png" width="40" height="40" /></td>
-<td class="mbox-text" style="font-weight: bold;"> You are not currently <a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;returnto=List_of_computing_and_IT_abbreviations&amp;returntoquery=action%3Dedit">logged in</a>. If you save any edits, your <a href="/wiki/IP_address" title="IP address">IP address</a> will be <a href="/wiki/Help:Page_history" title="Help:Page history">recorded publicly</a> in <a class="external text" href="//en.wikipedia.org/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=history">this page's edit history</a>.   If you <a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;type=signup">create an account</a>, you can conceal your IP address and be provided with many other <a href="/wiki/Wikipedia:Why_create_an_account%3F" title="Wikipedia:Why create an account?">benefits</a>. Messages sent to your IP can be viewed on <b><a href="/wiki/Special:MyTalk" title="Special:MyTalk">your talk page</a></b>. <br/><br/> Please do not save test edits. If you want to experiment, please use the <a href="/wiki/Wikipedia:Sandbox" title="Wikipedia:Sandbox">sandbox</a>. If you need any help getting started with editing, see the <a href="/wiki/Wikipedia:New_contributors%27_help_page" title="Wikipedia:New contributors' help page">New contributors' help page</a>. </td>
-</tr>
-</table></div>
-<div id="wikiPreview" class="ontop" style="display: none;"></div><form id="editform" name="editform" method="post" action="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=submit" enctype="multipart/form-data">
-<input type="hidden" value="464956025" name="baseRevId" />
-<input type="hidden" value="0" name="undidRev" /><div id="antispam-container" style="display: none;">
-<label for="wpAntispam">Anti-spam check.
-Do <b>NOT</b> fill this in!</label> <input type="text" name="wpAntispam" id="wpAntispam" value="" />
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
 </div>
-<input type='hidden' value="" name="wpSection" />
-<input type='hidden' value="20111223015701" name="wpStarttime" />
-<input type='hidden' value="20111209143809" name="wpEdittime" />
-<input type='hidden' value="" name="wpScrolltop" id="wpScrolltop" />
-<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary" /><input type="hidden" value="0" name="oldid" /><div id='toolbar'>
+<h1 id="firstHeading" class="firstHeading" lang="en">Editing List of computing and IT abbreviations</h1>			<div id="bodyContent" class="mw-body-content">
+								<div id="contentSub"></div>
+								<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text"><div class="mw-editnotice-notext"><div class="editnotice-link editnotice-redlink sysop-show templateeditor-show" style="clear: both; float: right; margin: 0px 0.8em; padding: 0; line-height: 1em; display: none;"> <small><a href="/w/index.php?title=Template:Editnotices/Page/List_of_computing_and_IT_abbreviations&amp;action=edit&amp;redlink=1" class="new" title="Template:Editnotices/Page/List of computing and IT abbreviations (page does not exist)">Page notice</a></small> </div>
+</div><div id="mw-anon-edit-warning" class="warningbox">
+<div class="floatleft"><img alt="AnonEditWarning.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/d/de/AnonEditWarning.svg/9px-AnonEditWarning.svg.png" width="9" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/de/AnonEditWarning.svg/13px-AnonEditWarning.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/de/AnonEditWarning.svg/18px-AnonEditWarning.svg.png 2x" data-file-width="9" data-file-height="20" /></div> <span style="color:#d33; font-weight:bold;">You are not logged in.</span> Your <a href="/wiki/IP_address" title="IP address">IP address</a> will be publicly visible if you make any edits. If you <span class="plainlinks"><b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;returnto=List_of_computing_and_IT_abbreviations">log in</a></b> or <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:UserLogin/signup&amp;campaign=anoneditwarning&amp;returnto=List_of_computing_and_IT_abbreviations">create an account</a></b></span>, your edits will be attributed to a user name, among <a href="/wiki/Wikipedia:Why_create_an_account%3F" title="Wikipedia:Why create an account?">other benefits</a>.
+</div>
+<div class="editpage-head-copywarn">
+<p><i>Content that <a href="/wiki/Wikipedia:Copyright_violations" title="Wikipedia:Copyright violations">violates any copyrights</a> will be deleted. Encyclopedic content must be <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">verifiable</a>. Work submitted to Wikipedia can be edited, used, and redistributed—by anyone—subject to <a href="/wiki/Wikipedia:Reusing_Wikipedia_content" title="Wikipedia:Reusing Wikipedia content">certain terms and conditions</a>.</i>
+</p>
+</div>
+<div id="wikiPreview" class="ontop" style="display: none;"><div lang="en" dir="ltr" class="mw-content-ltr"></div></div><form class="mw-editform" id="editform" name="editform" method="post" action="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=submit" enctype="multipart/form-data"><input type="hidden" value="ℳ𝒲♥𝓊𝓃𝒾𝒸ℴ𝒹ℯ" name="wpUnicodeCheck"/><div id="antispam-container" style="display: none;"><label for="wpAntispam">Anti-spam check.
+Do <strong>not</strong> fill this in!</label><input type="text" name="wpAntispam" id="wpAntispam" value="" /></div>
+<input type="hidden" value="842918502" name="baseRevId"/>
+<input type="hidden" value="0" name="altBaseRevId"/>
+<input type="hidden" value="0" name="undidRev"/><input type="hidden" name="editingStatsId" id="editingStatsId" value="16a2461ccc05c801e20d1f838a29c505" /><input type="hidden" name="wpSection"/><input type="hidden" value="20180531171954" name="wpStarttime"/><input type="hidden" value="20180525153205" name="wpEdittime"/><input type="hidden" value="842918502" name="editRevId"/><input id="wpScrolltop" type="hidden" name="wpScrolltop"/><input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary"/><input type="hidden" value="0" name="oldid"/><input type="hidden" value="842918502" name="parentRevId"/><input type="hidden" value="text/x-wiki" name="format"/><input type="hidden" value="wikitext" name="model"/><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1">This is a '''list of computing and IT acronyms and abbreviations'''.
 
-</div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="en" dir="ltr" name="wpTextbox1">{{Split|date=June 2010}}
-This is a '''list of computing and IT acronyms and abbreviations'''.
-
-{{AlphanumericTOC|align=center}}
+{{alphanumeric TOC|numbers=yes|references=yes|seealso=yes|externallinks=yes}}
 
 ==0–9==
-{{div col|3}}
+{{div col|colwidth=22em}}
+* [[Shebang (Unix)|#!]]—Shebang
 * [[Slashdot|/.]]—Slashdot
 * [[First-generation programming language|1GL]]—First-Generation Programming Language
-* [[1NF]]—First Normal Form
+* [[First normal form|1NF]]—First Normal Form
 * [[10BASE2|10B2]]—10BASE-2
 * [[10BASE5|10B5]]—10BASE-5
 * [[10BASE-F|10B-F]]—10BASE-F
 * [[10BASE-FB|10B-FB]]—10BASE-FB
 * [[10BASE-FL|10B-FL]]—10BASE-FL
-* 10B-FP—10BASE-FP
+* [[10BASE‑FP|10B-FP]]—10BASE-FP
 * [[10BASE-T|10B-T]]—10BASE-T
 * [[100BASE-FX|100B-FX]]—100BASE-FX
 * [[100BASE-T|100B-T]]—100BASE-T
@@ -98,31 +75,34 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[100BaseVG|100BVG]]—100BASE-VG
 * [[Intel 80286|286]]—Intel 80286 processor
 * [[2B1Q]]—2 Binary 1 Quaternary
+* [[Multi-factor authentication|2FA]]—Two-factor authentication
 * [[Second-generation programming language|2GL]]—Second-Generation Programming Language
 * [[2NF]]—Second Normal Form
 * [[Third-generation programming language|3GL]]—Third-Generation Programming Language
+* [[3GPP]]—[[3rd Generation Partnership Project]]—'3G comms
+* [[3GPP2]]—[[3rd Generation Partnership Project 2]]
 * [[3NF]]—Third Normal Form
 * [[Intel 80386|386]]—Intel 80386 processor
 * [[Intel i486|486]]—Intel 80486 processor
-* [[4B5B|4B5BLF]]—4 Byte 5 Byte Local Fiber
+* [[4B5B]]LF—4 Byte 5 Byte Local Fiber
 * [[Fourth-generation programming language|4GL]]—Fourth-Generation Programming Language
 * [[4NF]]—Fourth Normal Form
 * [[Fifth-generation programming language|5GL]]—Fifth-Generation Programming Language
 * [[5NF]]—Fifth Normal Form
 * [[6NF]]—Sixth Normal Form
 * [[8b/10b encoding|8B10BLF]]—8 Byte 10 Byte Local Fiber
+* [[802.11]]—Wireless LAN
 {{div col end}}
 
 == A ==
-{{div col|3}}
-* [[Access time|AAT]]—Average Access Time
-* [[Anti-aliasing|AA]]—Anti-Aliasing
+{{div col|colwidth=22em}}
 * [[AAA protocol|AAA]]—Authentication Authorization, Accounting
 * [[Minimum bounding box|AABB]]—Axis Aligned Bounding Box
 * [[Advanced Audio Coding|AAC]]—Advanced Audio Coding
 * [[ATM adaptation layer|AAL]]—ATM Adaptation Layer
 * [[ATM adaptation layer|AALC]]—ATM Adaptation Layer Connection
 * [[AppleTalk|AARP]]—AppleTalk Address Resolution Protocol
+* [[Attribute-Based Access Control|ABAC]]—Attribute-Based Access Control
 * [[Actor-Based Concurrent Language|ABCL]]—Actor-Based Concurrent Language
 * [[Application binary interface|ABI]]—Application Binary Interface
 * [[Asynchronous Balanced Mode|ABM]]—Asynchronous Balanced Mode
@@ -134,21 +114,19 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Alternating current|AC]]—Alternating Current
 * [[Automatic call distributor|ACD]]—Automatic Call Distributor
 * [[Advanced Computing Environment|ACE]]—Advanced Computing Environment
-* [[ACF NCP]]—Advanced Communications Function—Network Control Program
 * [[ACID]]—Atomicity Consistency Isolation Durability
 * [[Acknowledge character|ACK]]—ACKnowledgement
 * [[Amsterdam Compiler Kit|ACK]]—Amsterdam Compiler Kit
 * [[Access control list|ACL]]—Access Control List
 * [[Active current loop|ACL]]—Active Current Loop
 * [[Association for Computing Machinery|ACM]]—Association for Computing Machinery
-* [[Mortality Medical Data System#ACME|ACME]]—Automated Classification of Medical Entities
+* [[Automated Classification of Medical Entities|ACME]]—Automated Classification of Medical Entities
 * [[IBM Airline Control Program|ACP]]—Airline Control Program
 * [[Advanced Configuration and Power Interface|ACPI]]—Advanced Configuration and Power Interface
 * [[Allowed cell rate|ACR]]—Allowed Cell Rate
 * [[Attenuation to crosstalk ratio|ACR]]—Attenuation to Crosstalk Ratio
 * [[Active Directory|AD]]—Active Directory
 * [[Administrative domain|AD]]—Administrative Domain
-* [[ADA US Government Programming Language|ADA]]—ADA US Government Programming Language
 * [[Analog-to-digital converter|ADC]]—Analog-to-Digital Converter
 * [[Apple Display Connector|ADC]]—Apple Display Connector
 * [[Apple Desktop Bus|ADB]]—Apple Desktop Bus
@@ -156,7 +134,7 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[ActiveX Data Objects|ADO]]—ActiveX Data Objects
 * [[Asymmetric digital subscriber line|ADSL]]—Asymmetric Digital Subscriber Line
 * [[Abstract data type|ADT]]—Abstract Data Type
-* [[Equalization|AE]]—Adaptive Equalizer
+* [[Adaptive equalizer|AE]]—Adaptive Equalizer
 * [[Advanced Encryption Standard|AES]]—Advanced Encryption Standard
 * [[Anisotropic filtering|AF]]—Anisotropic Filtering
 * [[Apple Filing Protocol|AFP]]—Apple Filing Protocol
@@ -171,8 +149,9 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[ALGOL]]—Algorithmic Language
 * [[Advanced Linux Sound Architecture|ALSA]]—Advanced Linux Sound Architecture
 * [[Arithmetic logic unit|ALU]]—Arithmetic and Logical Unit
-* [[Active-matrix liquid crystal display|AM]]—Active Matrix
 * [[Access method|AM]]—Access Method
+* [[Active-matrix liquid crystal display|AM]]—Active Matrix
+* [[AMOLED]]—Active-Matrix Organic Light-Emitting Diode
 * [[Active monitor|AM]]—Active Monitor
 * [[I Have No Mouth, and I Must Scream|AM]]—Allied Mastercomputer
 * [[Amplitude modulation|AM]]—Amplitude Modulation
@@ -201,47 +180,56 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[ARPANET]]—Advanced Research Projects Agency Network
 * [[Network access server|AS]]—Access Server
 * [[ASCII]]—American Standard Code for Information Interchange
+* [[AuthIP]]—Authenticated Internet Protocol
+* [[Automated Security Enhancement Tool|ASET]]—Automated Security Enhancement Tool
 * [[Abstract semantic graph|ASG]]—Abstract Semantic Graph
 * [[Application-specific integrated circuit|ASIC]]—Application-Specific Integrated Circuit
-* [[ASIMO]]–Advanced Step in Innovative Mobility
-* [[Address space layout randomization|ASLR]]–Address Space Layout Randomization
-* [[Algorithmic State Machine|ASM]]—Algorithmic State Machine
+* [[ASIMO]]—Advanced Step in Innovative Mobility
+* [[Address space layout randomization|ASLR]]—Address Space Layout Randomization
+* [[Algorithmic state machine|ASM]]—Algorithmic State Machine
 * [[Asymmetric multiprocessing|ASMP]]—Asymmetric Multiprocessing
 * [[Abstract Syntax Notation One|ASN.1]]—Abstract Syntax Notation 1
 * [[Active Server Pages|ASP]]—Active Server Pages
 * [[Application service provider|ASP]]—Application Service Provider
 * [[Signal (computing)|ASR]]—Asynchronous Signal Routine
 * [[Abstract syntax tree|AST]]—Abstract Syntax Tree
-* [[Application-specific standard product|ASSP]]—Application-Specific Standard Product
 * [[IBM Personal Computer/AT|AT]]—Advanced Technology
 * [[Access time|AT]]—Access Time
 * [[Active terminator|AT]]—Active Terminator
 * [[Advanced Technology Attachment|ATA]]—Advanced Technology Attachment
-* [[Web_Accessibility_Initiative#Authoring_Tools_Accessibility_Guidelines_.28ATAG.29|ATAG]]—Authoring Tool Accessibility Guidelines
+* [[Authoring Tool Accessibility Guidelines|ATAG]]—Authoring Tool Accessibility Guidelines
 * [[AT Attachment|ATAPI]]—Advanced Technology Attachment Packet Interface
 * [[Asynchronous transfer mode|ATM]]—Asynchronous Transfer Mode
+* [[Antivirus software|AV]]—Antivirus
 * [[H.264/MPEG-4 AVC|AVC]]—Advanced Video Coding
 * [[Audio Video Interleave|AVI]]—Audio Video Interleaved
 * [[AWK]]—Aho Weinberger Kernighan
 * [[Abstract Window Toolkit|AWT]]—Abstract Window Toolkit
+* [[Acronym With Four Letters|AWFL]]—Acronym With Four Letters
 {{div col end}}
 
 == B ==
-{{div col|3}}
+{{div col|colwidth=22em}}
 * [[Business-to-business|B2B]]—Business-to-Business
 * [[Business-to-consumer|B2C]]—Business-to-Consumer
+* [[Business-to-employee|B2E]]—Business-to-Employee
 * [[IBM Basic assembly language|BAL]]—Basic Assembly Language
+* [[Block availability map|BAM]]—Block Availability Map
 * [[Bash (Unix shell)|Bash]]—Bourne-again shell
 * [[BASIC]]—Beginner's All-Purpose Symbolic Instruction Code
 * [[Baseband processor|BBP]]—Baseband Processor
 * [[Bulletin board system|BBS]]—Bulletin Board System
 * [[Binary-coded decimal|BCD]]—Binary Coded Decimal
+* [[Boot Configuration Data|BCD]]—Boot Configuration Data
 * [[Boyce–Codd normal form|BCNF]]—Boyce–Codd normal form
 * [[BEEP]]—Blocks Extensible Exchange Protocol
 * [[Bit error ratio|BER]]—Bit Error Rate
+* [[Bidirectional Forwarding Detection|BFD]]—Bidirectional Forwarding Detection
 * [[Binary File Descriptor library|BFD]]—Binary File Descriptor
 * [[Breadth-first search|BFS]]—Breadth-First Search
+* [[Byzantine fault tolerance|BFT]]—Byzantine Fault Tolerant
 * [[Border Gateway Protocol|BGP]]—Border Gateway Protocol
+* [[Business intelligence|BI]]—Business Intelligence
 * [[Bi-directional text|BiDi]]—Bi-Directional
 * [[Binary file|bin]]—binary
 * [[BINAC]]—Binary Automatic Computer
@@ -251,7 +239,7 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[bit]]—binary digit
 * [[Binary large object|Blob]]—Binary large object
 * [[Blog]]—Web Log
-* [[Mapping of Unicode characters|BMP]]—Basic Multilingual Plane
+* [[Basic Multilingual Plane|BMP]]—Basic Multilingual Plane
 * [[BNC connector|BNC]]—Bayonet Neill-Concelman
 * [[Berkeley Open Infrastructure for Network Computing|BOINC]]—Berkeley Open Infrastructure for Network Computing
 * [[Byte order mark|BOM]]—Byte Order Mark
@@ -259,44 +247,54 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[BPDU]]—Bridge Protocol Data Unit
 * [[Business Process Execution Language|BPEL]]—Business Process Execution Language
 * [[Power line communication|BPL]]—Broadband over Power Lines
+* [[Business Process Management|BPM]]—Business Process Management
+* [[Business process modeling|BPM]]—Business Process Modeling
 * [[bit rate|bps]]—bits per second
+* [[Business reference model|BRM]]—Business Reference Model
+* [[Business rule management system|BRMS]]—Business Rule Management System
 * [[Business Readiness Rating|BRR]]—Business Readiness Rating
+* [[Multichannel Multipoint Distribution Service|BRS]]—Broadband Radio Service
 * [[Business Software Alliance|BSA]]—Business Software Alliance
 * [[Back-side bus|BSB]]—Backside Bus
 * [[Berkeley Software Distribution|BSD]]—Berkeley Software Distribution
 * [[Blue Screen of Death|BSoD]]—Blue Screen of Death
 * [[.bss|BSS]]—Block Started by Symbol
 * [[BitTorrent (protocol)|BT]]—BitTorrent
-* [[Bluetooth|BT]]—Bluetooth
-* [[Basic telecommunications access method|BTAM]]—Basic Telecommunications Access Method
+* [[Bluetooth|BT]]—Bluetooth 
+* [[Basic telecommunications access method|B TAM]]—Basic Telecommunications Access Method
 * [[Bandwidth (computing)|BW]]—Bandwidth
+* [[Bring your own device|BYOD]]—Bring Your Own Device
+* [[Byte]]—By eight (group of 8 bits)
 {{div col end}}
 
 == C ==
-{{div col|3}}
-* [[Certificate authority|CA]]—Certificate Authority
+{{div col|colwidth=22em}}
+
+* [[Computer architecture|CA]]—Computer Accountancy 
 * [[Computer-aided design|CAD]]—Computer-Aided Design
 * [[Computer-aided engineering|CAE]]—Computer-Aided Engineering
 * [[Computer-aided industrial design|CAID]]—Computer-Aided Industrial Design
 * [[E-learning|CAI]]—Computer-Aided Instruction
 * [[Computer-aided manufacturing|CAM]]—Computer-Aided Manufacturing
 * [[CAPTCHA]]—Completely Automated Public Turing Test to tell Computers and Humans Apart
-* [[Computer-assisted translation|CAT]] – Computer-Aided Translation
+* [[Computer-assisted translation|CAT]]—Computer-Aided Translation
 * [[Computer-aided quality|CAQ]]—Computer-Aided Quality Assurance
 * [[Computer-aided software engineering|CASE]]—Computer-Aided Software Engineering
 * [[GNU Compiler Collection|cc]]—C Compiler
 * [[Compact Disc|CD]]—Compact Disc
 * [[Common Desktop Environment|CDE]]—Common Desktop Environment
+* [[Compact Disk File System|CDFS]]—Compact Disk File System
 * [[Code division multiple access|CDMA]]—Code Division Multiple Access
 * [[Content delivery network|CDN]]—Content Delivery Network
+* [[Cisco Discovery Protocol|CDP]]—Cisco Discovery Protocol
 * [[Continuous data protection|CDP]]—Continuous Data Protection
 * [[CD-R]]—CD-Recordable
 * [[CD-ROM]]—CD Read-Only Memory
 * [[CD-RW]]—CD-Rewritable
-* [[Computer_security#Security_architecture|CDSA]]—Common Data Security Architecture
+* [[Computer security#Security architecture|CDSA]]—Common Data Security Architecture
 * [[Computer Emergency Response Team|CERT]]—Computer Emergency Response Team
 * [[Consumer Electronics Show|CES]]—Consumer Electronics Show
-* [[CompactFlash|CF]]—Compact Flash
+* [[Compact Flash|CF]]—Compact Flash
 * [[Computational fluid dynamics|CFD]]—Computational Fluid Dynamics
 * [[Context-free grammar|CFG]]—Context-Free Grammar
 * [[Control flow graph|CFG]]—Control Flow Graph
@@ -310,6 +308,9 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Classless Inter-Domain Routing|CIDR]]—Classless Inter-Domain Routing
 * [[Server Message Block|CIFS]]—Common Internet Filesystem
 * [[Common Information Model (computing)|CIM]]—Common Information Model
+* [[Computationally Independent Model|CIM]]—Computationally Independent Model
+* [[Chief information officer|CIO]]—Chief Information Officer
+* [[Committed information rate|CIR]]—Committed information rate
 * [[Complex instruction set computer|CISC]]—Complex Instruction Set Computer
 * [[CJK characters|CJK]]—Chinese, Japanese, and Korean
 * [[CJKV]]—Chinese, Japanese, Korean, and Vietnamese
@@ -317,19 +318,22 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Common Language Runtime|CLR]]—Common Language Runtime
 * [[Configuration management|CM]]—Configuration Management
 * [[Content management|CM]]—Content Management
+* [[Configuration management database|CMDB]]—Configuration Management Database
 * [[Capability Maturity Model Integration|CMMI]]—Capability Maturity Model Integration
 * [[CMOS]]—Complementary Metal-Oxide Semiconductor
+* [[Current Mode of Operation|CMO]]—Current Mode of Operation
 * [[Content management system|CMS]]—Content Management System
 * [[Active Directory|CN]]—Canonical Name
 * [[Lightweight Directory Access Protocol|CN]]—Common Name
 * [[CNC]]—Computer Numerical Control
+* [[Cryptographic Next Generation|CNG]]—Cryptographic Next Generation
+* [[Cryptography Next Generation|CNG]]—Cryptography Next Generation
 * [[Communications and Networking Riser|CNR]]—Communications and Networking Riser
 * [[COBOL]]—Common Business-Oriented Language
-* [[Component Object Model|COM]]—Component Object Model
+* [[Component Object Model|COM]]—Component Object Model or communication
 * [[Common Object Request Broker Architecture|CORBA]]—Common Object Request Broker Architecture
 * [[Commercial off-the-shelf|COTS]]—Commercial Off-The-Shelf
 * [[Cell (microprocessor)|CPA]]—Cell Processor Architecture
-* [[Converged Packet Access|CPA]]—Converged Packet Access
 * [[CPAN]]—Comprehensive Perl Archive Network
 * [[CP/M]]—Control Program/Monitor
 * [[Common Public Radio Interface|CPRI]]—Common Public Radio Interface
@@ -338,7 +342,7 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Carriage return|CR]]—Carriage Return
 * [[R (programming language)|CRAN]]—Comprehensive R Archive Network
 * [[Cyclic redundancy check|CRC]]—Cyclic Redundancy Check
-* [[Newline|CRLF]]—Carriage Return Line Feed
+* [[Newline|CRLF]]—Carriage Return Line Feeds
 * [[Customer relationship management|CRM]]—Customer Relationship Management
 * [[Computer reservations system|CRS]]—Computer Reservations System
 * [[Cathode ray tube|CRT]]—Cathode Ray Tube
@@ -347,6 +351,9 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Computer science|CS]]—Computer Science
 * [[Computer Science and Engineering|CSE]]—Computer Science and Engineering
 * [[Common System Interface|CSI]]—Common System Interface
+* [[Compatibility Support Module|CSM]]—Compatibility Support Module
+* [[Carrier sense multiple access with collision detection|CSMA/CD]]—Carrier sense multiple access with collision detection
+* [[Cloud service provider|CSP]]—Cloud Service Provider
 * [[Communicating sequential processes|CSP]]—Communicating Sequential Processes
 * [[Cross-site request forgery|CSRF]]—Cross-Site Request Forgery
 * [[Cascading Style Sheets|CSS]]—Cascading Style Sheets
@@ -358,18 +365,21 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[CTAN]]—Comprehensive TeX Archive Network
 * [[Client-to-client protocol|CTCP]]—Client-To-Client Protocol
 * [[Computer telephony integration|CTI]]—Computer Telephony Integration
+* [[Compile time function execution|CTFE]]—Compile Time Function Execution
 * [[Computation tree logic|CTL]]—Computational Tree Logic
 * [[Close to Metal|CTM]]—Close To Metal
-* [[Transmit flow control|CTS]]—Clear To Send
+* [[Flow control (data)|CTS]]—Clear To Send
 * [[Compatible Time-Sharing System|CTSS]]—Compatible Time-Sharing System
 * [[IBM Common User Access|CUA]]—Common User Access
 * [[Concurrent Versions System|CVS]]—Concurrent Versioning System
 {{div col end}}
 
 == D ==
-{{div col|3}}
+{{div col|colwidth=22em}}
 * [[Digital-to-analog converter|DAC]]—Digital-To-Analog Converter
 * [[Discretionary access control|DAC]]—Discretionary Access Control
+* [[Database Abstraction Layer|DAL]]—Database Abstraction Layer
+* [[Data access object|DAO]]—Data Access Object
 * [[Data Access Objects|DAO]]—Data Access Objects
 * [[Optical disc recording modes|DAO]]—Disk-At-Once
 * [[Directory Access Protocol|DAP]]—Directory Access Protocol
@@ -383,10 +393,12 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Datagram Congestion Control Protocol|DCCP]]—Datagram Congestion Control Protocol
 * [[DCC Alliance|DCCA]]—Debian Common Core Alliance
 * [[Data Control Language|DCL]]—Data Control Language
+* [[Distributed Control System|DCS]]—Distributed Control System
 * [[Dublin Core|DCMI]]—Dublin Core Metadata Initiative
 * [[Distributed Component Object Model|DCOM]]—Distributed Component Object Model
 * [[Double density|DD]]—Double Density
 * [[Dynamic Data Exchange|DDE]]—Dynamic Data Exchange
+* [[DNS DHCP IP Address management|DDI]]—DNS DHCP &amp; IP Address management
 * [[Data Definition Language|DDL]]—Data Definition Language
 * [[DDoS]]—Distributed Denial of Service
 * [[DDR SDRAM|DDR]]—Double Data Rate
@@ -404,21 +416,24 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[DIMM]]—Dual Inline Memory Module
 * [[Deutsches Institut für Normung|DIN]]—Deutsches Institut für Normung
 * [[Dual in-line package|DIP]]—Dual In-line Package
+* [[DISM]]—Deployment Image and Service Management Tool
 * [[DIVX (Digital Video Express)|DIVX]]—Digital Video Express
 * [[DomainKeys Identified Mail|DKIM]]—Domain Keys Identified Mail
 * [[Download|DL]]—Download
 * [[Dynamic-link library|DLL]]—Dynamic Link Library
 * [[Digital Living Network Alliance|DLNA]]—Digital Living Network Alliance
-* [[Digital Light Processing|DLP]]—Digital Light Processing
+* [[Data loss protection|DLP]]—Data loss protection
 * [[Direct memory access|DMA]]—Direct Memory Access
 * [[Digital Millennium Copyright Act|DMCA]]—Digital Millennium Copyright Act
 * [[Direct Media Interface|DMI]]—Direct Media Interface
 * [[Data Manipulation Language|DML]]—Data Manipulation Language
 * [[Definitive Media Library|DML]]—Definitive Media Library
 * [[Dennis Ritchie|DMR]]—Dennis M. Ritchie
+* [[DMZ (computing)|DMZ]]—Demilitarized Zone
 * [[Lightweight Directory Access Protocol|DN]]—Distinguished Name
 * [[Drag-and-drop|DND]]—Drag-and-Drop
 * [[Domain Name System|DNS]]—Domain Name System
+* [[Dead on arrival|DOA]]—Dead on Arrival
 * [[DOCSIS]]—Data Over Cable Service Interface Specification
 * [[Document Object Model|DOM]]—Document Object Model
 * [[Denial-of-service attack|DoS]]—Denial of Service
@@ -429,11 +444,13 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Dots per inch|DPI]]—Dots Per Inch
 * [[DOS Protected Mode Interface|DPMI]]—DOS Protected Mode Interface
 * [[VESA Display Power Management Signaling|DPMS]]—Display Power Management Signaling
-* [[Dynamic random access memory|DRAM]]—Dynamic Random Access Memory
+* [[Disaster recovery|DR]]—Disaster Recovery
+* [[Dynamic random-access memory|DRAM]]—Dynamic Random-Access Memory
 * [[DR-DOS]]—Digital Research - Disk Operating System
 * [[Direct Rendering Infrastructure|DRI]]—Direct Rendering Infrastructure
 * [[Digital rights management|DRM]]—Digital Rights Management
 * [[Direct Rendering Manager|DRM]]—Direct Rendering Manager
+* [[Digital Signature Algorithm|DSA]]—Digital Signature Algorithm
 * [[Document Schema Definition Languages|DSDL]]—Document Schema Definition Languages
 * [[Dynamic Systems Development Method|DSDM]]—Dynamic Systems Development Method
 * [[Digital subscriber line|DSL]]—Digital Subscriber Line
@@ -444,22 +461,23 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Digital signal processor|DSP]]—Digital Signal Processor
 * [[Document Style Semantics and Specification Language|DSSSL]]—Document Style Semantics and Specification Language
 * [[Document Type Definition|DTD]]—Document Type Definition
-* [[Data terminal equipment|DTE]]—Data Terminal Equipment
+* [[Data terminal equipment|DTE]]—Data Terminal Equipment or data transfer rate
 * [[Desktop publishing|DTP]]—Desktop Publishing
-* [[RS-232|DTR]]—Data Terminal Ready
+* [[RS-232|DTR]]—Data Terminal Ready or Data transfer rate
 * [[DVD]]—Digital Versatile Disc
-* [[DVD]]—Digital Video Disc
 * [[DVD-R]]—DVD-Recordable
 * [[DVD-ROM]]—DVD-Read Only Memory
 * [[DVD-RW]]—DVD-Rewritable
 * [[Digital Visual Interface|DVI]]—Digital Visual Interface
 * [[Digital video recorder|DVR]]—Digital Video Recorder
+* [[Data Warehouse|DW]]—Data Warehouse
 {{div col end}}
 
 == E ==
-{{div col|3}}
+{{div col|colwidth=22em}}
 * [[Enterprise application integration|EAI]]—Enterprise Application Integration
 * [[Extensible Authentication Protocol|EAP]]—Extensible Authentication Protocol
+* [[Exchange ActiveSync|EAS]]—Exchange ActiveSync
 * [[Extended Binary Coded Decimal Interchange Code|EBCDIC]]—Extended Binary Coded Decimal Interchange Code
 * [[Extensible Binary Meta Language|EBML]]—Extensible Binary Meta Language
 * [[Elliptic curve cryptography|ECC]]—Elliptic Curve Cryptography
@@ -468,6 +486,7 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[eCos|ECOS]]—Embedded Configurable Operating System
 * [[Expense and Cost Recovery System (ECRS)|ECRS]]—Expense and Cost Recovery System
 * [[Electronic design automation|EDA]]—Electronic Design Automation
+* [[Enhanced Data Rates for GSM Evolution|EDGE]]— Enhanced Data rates for GSM Evolution
 * [[Electronic Data Interchange|EDI]]—Electronic Data Interchange
 * [[Dynamic random access memory|EDO]]—Extended Data Out
 * [[Electronic Delay Storage Automatic Calculator|EDSAC]]—Electronic Delay Storage Automatic Calculator
@@ -476,7 +495,10 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Electronic Frontier Foundation|EFF]]—Electronic Frontier Foundation
 * [[Extensible Firmware Interface|EFI]]—Extensible Firmware Interface
 * [[Eight-to-fourteen modulation|EFM]]—Eight-to-Fourteen Modulation
+* [[Ethernet in the First Mile|EFM]]—Ethernet in the First Mile
+* [[Encrypting File System|EFS]]—Encrypting File System
 * [[Enhanced Graphics Adapter|EGA]]—Enhanced Graphics Array
+* [[Electronic mail|E-mail]]—Electronic mail
 * [[Exterior Gateway Protocol|EGP]]—Exterior Gateway Protocol
 * [[Electronic identity card|eID]]—electronic ID card
 * [[EIDE]]—Enhanced IDE
@@ -488,24 +510,31 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Emacs|EMACS]]—Editor MACroS
 * [[Expanded memory|EMS]]—Expanded Memory Specification
 * [[ENIAC]]—Electronic Numerical Integrator And Computer
+* [[End-of-Day|EOD]]—End of Day
 * [[End-of-file|EOF]]—End of File
-* [[End-of-life (product)|EOL]]—End of Life
 * [[Newline|EOL]]—End of Line
 * [[End of Message|EOM]]—End Of Message
+* [[End of Support|EOS]]—End OF Support
 * [[Explicitly parallel instruction computing|EPIC]]—Explicitly Parallel Instruction Computing
 * [[EPROM]]—Erasable Programmable Read-Only Memory
+* [[Entity-relationship diagram|ERD]]—Entity-Relationship Diagram
+* [[Entity-relationship model|ERM]]—Entity-Relationship Model
 * [[Enterprise resource planning|ERP]]—Enterprise Resource Planning
+* [[external SATA|eSATA]]—external SATA
+* [[Enterprise service bus|ESB]]—Enterprise service bus
 * [[ESCON]]—Enterprise Systems Connection
 * [[Electrostatic discharge|ESD]]—Electrostatic Discharge
-* [[Extract, transform, load|ETL]]—Extract, Transform, Load
 * [[Eric S. Raymond|ESR]]—Eric Steven Raymond
+* [[Extract, transform, load|ETL]]—Extract, Transform, Load
+* [[Event Tracing for Windows|ETW]]—Event Tracing for Windows
 * [[Extended Unix Code|EUC]]—Extended Unix Code
 * [[End user license agreement|EULA]]—End User License Agreement
+* [[Extended Window Manager Hints|EWMH]]—Extended Window Manager Hints
 * [[Extended file system|EXT]]—EXTended file system
 {{div col end}}
 
 == F ==
-{{div col|3}}
+{{div col|colwidth=22em}}
 * [[FORTRAN Assembly Program|FAP]]—FORTRAN Assembly Program
 * [[FASM]]—Flat ASseMbler
 * [[File Allocation Table|FAT]]—File Allocation Table
@@ -516,20 +545,24 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Frame check sequence|FCS]]—Frame Check Sequence
 * [[Floppy disk controller|FDC]]—Floppy Disk Controller
 * [[Fedora Directory Server|FDS]]—Fedora Directory Server
+* [[Frequency-division multiple access|FDD]]—Frequency-Division Duplexing
 * [[Floppy disk drive|FDD]]—Floppy Disk Drive
 * [[Fiber distributed data interface|FDDI]]—Fiber Distributed Data Interface
+* [[Frequency-division multiplexing|FDM]]—Frequency-Division Multiplexing
 * [[Frequency-division multiple access|FDMA]]—Frequency-Division Multiple Access
 * [[Forward error correction|FEC]]—Forward Error Correction
 * [[S-LINK|FEMB]]—Front-End Motherboard
 * [[Field-effect transistor|FET]]—Field Effect Transistor
 * [[Filesystem Hierarchy Standard|FHS]]—Filesystem Hierarchy Standard
 * [[FICON]]—FIber CONnectivity
-* [[FIFO (computing)|FIFO]]—First In First Out
+* [[FIFO (computing and electronics)|FIFO]]—First In First Out
 * [[FIPS 140|FIPS]]—Federal Information Processing Standards
 * [[FL (programming language)|FL]]—Function Level
 * [[Free Lossless Audio Codec|FLAC]]—Free Lossless Audio Codec
 * [[FLOPS]]—FLoating-Point Operations Per Second
 * [[Free and open source software|FLOSS]]—Free/Libre/Open Source Software
+* [[Fixed Mobile Convergence|FMC]]— Fixed Mobile Convergence "Mobile UC or Unified Communications over Wireless" 
+* [[Future Mode of Operation|FMO]]—Future Mode of Operation
 * [[Free On-line Dictionary of Computing|FOLDOC]]—Free On-line Dictionary of Computing
 * [[FOSDEM]]—Free and Open source Software Developers' European Meeting
 * [[Formatting Output Specification Instance|FOSI]]—Formatted Output Specification Instance
@@ -538,11 +571,13 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Field-programmable gate array|FPGA]]—Field Programmable Gate Array
 * [[Floating Point Systems|FPS]]—Floating Point Systems
 * [[Floating-point unit|FPU]]—Floating Point Unit
-* [[Field Replaceable Unit|FRU]]—Field Replaceable Unit
+* [[Field-replaceable unit|FRU]]—Field Replaceable Unit
 * [[File system|FS]]—File System
 * [[Front-side bus|FSB]]—Front Side Bus
+* [[fsck]]—File System Check
 * [[Free Software Foundation|FSF]]—Free Software Foundation
 * [[Finite-state machine|FSM]]—Finite State Machine
+* [[Fiber to the Antenna|FTTA]]—Fiber To The Antenna
 * [[Fiber to the Curb|FTTC]]—Fiber To The Curb
 * [[Fiber to the home|FTTH]]—Fiber To The Home
 * [[Fiber to the premises|FTTP]]—Fiber To The Premises
@@ -551,17 +586,19 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Fear, uncertainty and doubt|FUD]]—Fear Uncertainty Doubt
 * [[Whitespace (computer science)|FWS]]—Folding White Space
 * [[File eXchange Protocol|FXP]]—File eXchange Protocol
+* [[For Your Information|FYI]]—For Your Information
+* [[FVEK]]—Full Volume Encryption Key
 {{div col end}}
 
 == G ==
-{{div col|3}}
+{{div col|colwidth=22em}}
 * [[Globalization|G11N]]—Globalization
 * [[GNU Assembler|Gas]]—GNU Assembler
 * [[Gigabit|Gb]]—Gigabit
 * [[Gigabyte|GB]]—Gigabyte
 * [[GNU Compiler Collection|GCC]]—GNU Compiler Collection
 * [[GNU Compiler for Java|GCJ]]—GNU Compiler for Java
-* [[Group code recording|GCR]]—Group Code Recording
+* [[Group coded recording|GCR]]—Group Coded Recording
 * [[GNU Debugger|GDB]]—GNU Debugger
 * [[Graphics Device Interface|GDI]]—Graphics Device Interface
 * [[GNU Free Documentation License|GFDL]]—GNU Free Documentation License
@@ -573,9 +610,11 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[OpenGL Utility Toolkit|GLUT]]—OpenGL Utility Toolkit
 * [[Geography Markup Language|GML]]—Geography Markup Language
 * [[GNOME]]—GNU Network Object Model Environment
-* [[GNU]]—GNU's Not Unix
+*[[GUI]]-Graphical User Interfase 
+*[[GNU]]—GNU's Not Unix
 * [[GOMS]]—Goals, Operators, Methods, and Selection rules
 * [[GPUTILS|GPASM]]—GNU PIC ASseMbler
+* [[IBM General Parallel File System|GPFS]]—General Parallel File System
 * [[GNU Privacy Guard|GPG]]—GNU Privacy Guard
 * [[GPGPU]]—General-Purpose Computing on Graphics Processing Units
 * [[GPIB]]—General-Purpose Instrumentation Bus
@@ -585,34 +624,42 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[GUID Partition Table|GPT]]—GUID Partition Table
 * [[Graphics processing unit|GPU]]—Graphics Processing Unit
 * [[GNU GRUB|GRUB]]—Grand Unified Boot-Loader
+* [[GERAN]]—GSM EDGE Radio Access Network
 * [[GSM]]—Global System for Mobile Communications
 * [[GTK+]]—GIMP Toolkit
 * [[Graphical user interface|GUI]]—Graphical User Interface
 * [[Globally Unique Identifier|GUID]]—Globally Unique IDentifier
 * [[Google Web Toolkit|GWT]]—Google Web Toolkit
+* [[IT Networking Services|GYR]]—IT Networking   
 {{div col end}}
 
 == H ==
-{{div col|3}}
+{{div col|colwidth=22em}}
+* [[High availability|HA]]—High Availability
 * [[Hardware abstraction layer|HAL]]—Hardware Abstraction Layer
+* [[Houston Automatic Spooling Priority|HASP]]—Houston Automatic Spooling Priority
 * [[Host adapter|HBA]]—Host Bus Adapter
 * [[Human–computer interaction|HCI]]—Human Computer Interaction
-* [[High density storage media|HD]]—High Density
+* [[High density|HD]]—High Density
 * [[Hard disk drive|HDD]]—Hard Disk Drive
 * [[Hardware compatibility list|HCL]]—Hardware Compatibility List
 * [[HD DVD]]—High Definition DVD
 * [[Hardware description language|HDL]]—Hardware Description Language
 * [[HDMI]]—High-Definition Multimedia Interface
+* [[HECI]]—Host Embedded Controller Interface
 * [[High frequency|HF]]—High Frequency
+* [[Hierarchical File System|HFS]]—Hierarchical File System
 * [[Hybrid drive|HHD]]—Hybrid Hard Drive
 * [[Human interface device|HID]]—Human Interface Device
 * [[Human interface guidelines|HIG]]—Human Interface Guidelines
 * [[GNU Hurd|HIRD]]—Hurd of Interfaces Representing Depth
 * [[IBM High-Level Assembler|HLASM]]—High Level ASseMbler
+* [[HTTP Live Streaming|HLS]]—HTTP Live Streaming
 * [[High memory area|HMA]]—High Memory Area
 * [[Hewlett-Packard|HP]]—Hewlett-Packard
 * [[High-performance computing|HPC]]—High-Performance Computing
 * [[High Performance File System|HPFS]]—High Performance File System
+* [[High-Speed Downlink Packet Access|HSDPA]]—High-Speed Downlink Packet Access
 * [[High-throughput computing|HTC]]—High-Throughput Computing
 * [[Hierarchical storage management|HSM]]—Hierarchical Storage Management
 * [[Hyper-threading|HT]]—Hyper Threading
@@ -620,15 +667,16 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[HTML]]—Hypertext Markup Language
 * [[Hypertext Transfer Protocol|HTTP]]—Hypertext Transfer Protocol
 * [[Daemon (computer software)|HTTPd]]—Hypertext Transport Protocol Daemon
+* [[HTTPS]]—HTTP Secure
 * [[HyperTransport|HTX]]—HyperTransport eXpansion
 * [[GNU Hurd|HURD]]—Hird of Unix-Replacing Daemons
 * [[Holographic Versatile Disc|HVD]]—Holographic Versatile Disc
-* [[Hertz|Hz]]—Hertz
-{{div col end}}
+* [[Hertz|Hz]]—Hertz{{div col end}}
 
 == I ==
-{{div col|3}}
-* [[I2C]]—Inter-Integrated Circuit
+{{div col|colwidth=22em}}
+* [[I²C]]—Inter-Integrated Circuit
+* [[I²S]]—Integrated Interchip Sound
 * [[Internationalization and localization|I18N]]—Internationalization
 * [[Internet Assigned Numbers Authority|IANA]]—Internet Assigned Numbers Authority
 * [[Application binary interface|iBCS]]—Intel Binary Compatibility Standard
@@ -637,48 +685,66 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[ICANN]]—Internet Corporation for Assigned Names and Numbers
 * [[In-circuit emulator|ICE]]—In-Circuit Emulator
 * [[Intrusion Countermeasures Electronics|ICE]]—Intrusion Countermeasure Electronics
+* [[I/O Controller Hub|ICH]]—I/O Controller Hub 
 * [[Internet Control Message Protocol|ICMP]]—Internet Control Message Protocol
 * [[Internet Cache Protocol|ICP]]—Internet Cache Protocol
+* [[Internet Connection Sharing|ICS]]—Internet Connection Sharing
 * [[Information technology|ICT]]—Information and Communication Technology
 * [[Integrated development environment|IDE]]—Integrated Development Environment
 * [[Advanced Technology Attachment|IDE]]—Integrated Drive Electronics
 * [[Intermediate distribution frame|IDF]]—Intermediate Distribution Frame
+* [[Intermediate Data Format|IDF]]—Intermediate Data Format
+* [[IDL (programming language)|IDL]]—Interactive Data Language
 * [[Interface description language|IDL]]—Interface Definition Language
 * [[Intrusion detection system|IDS]]—Intrusion Detection System
 * [[Internet Explorer|IE]]—Internet Explorer
 * [[International Electrotechnical Commission|IEC]]—International Electrotechnical Commission
 * [[Institute of Electrical and Electronics Engineers|IEEE]]—Institute of Electrical and Electronics Engineers
 * [[Internet Engineering Task Force|IETF]]—Internet Engineering Task Force
+* IFGICT—International Federation of Global &amp; Green ICT
 * [[Integrated Facility for Linux|IFL]]—Integrated Facility for Linux
 * [[Internet Group Management Protocol|IGMP]]—Internet Group Management Protocol
 * [[Interior Gateway Routing Protocol|IGRP]]—Interior Gateway Routing Protocol
 * [[Independent hardware vendor|IHV]]—Independent Hardware Vendor
 * [[General Inter-ORB Protocol|IIOP]]—Internet Inter-Orb Protocol
 * [[Internet Information Services|IIS]]—Internet Information Services
+* [[Internet Key Exchange|IKE]]—Internet Key Exchange
 * [[Intermediate language|IL]]—Intermediate Language
 * [[Instant messaging|IM]]—Instant Messaging
 * [[Internet Message Access Protocol|IMAP]]—Internet Message Access Protocol
 * [[Input method editor|IME]]—Input Method Editor
 * [[Information security|INFOSEC]]—Information Systems Security
-* [[Input/output|I/O]]—Input/Output
+* [[Input/output|I/O]]—Input/output
+* [[Internet of Things|IoT]]—Internet of Things
 * [[Intellectual property|IP]]—Intellectual Property
 * [[Internet Protocol|IP]]—Internet Protocol
+* [[IP address management|IPAM]]—IP Address Management
 * [[Inter-process communication|IPC]]—Inter-Process Communication
 * [[Initial Program Load|IPL]]—Initial Program Load
+* [[Intelligent Platform Management Interface|IPMI]]—Intelligent Platform Management Interface
 * [[Interprocedural optimization|IPO]]—Inter Procedural Optimization
 * [[Internet Printing Protocol|IPP]]—Internet Printing Protocol
+* [[IPS panel|IPS]]—In-Plane Switching
+* [[Instructions per second|IPS]]—Instructions Per Second
 * [[Intrusion prevention system|IPS]]—Intrusion Prevention System
 * [[IPsec]]—Internet Protocol security
 * [[IPTV]]—Internet Protocol Television
+* [[IPv4]]—Internet Protocol version 4
+* [[IPv6]]—Internet Protocol version 6
 * [[Internetwork Packet Exchange|IPX]]—Internetwork Packet Exchange
+* [[Intermediate language|IR]]—Intermediate Representation
 * [[Internet Relay Chat|IRC]]—Internet Relay Chat
 * [[Infrared Data Association|IrDA]]—Infrared Data Association
+* [[Internationalized Resource Identifier|IRI]]—Internationalized Resource Identifier 
+* [[I/F]]—Interface
 * [[I/O request packet|IRP]]—I/O Request Packet
 * [[Interrupt request|IRQ]]—Interrupt Request
 * [[Information systems|IS]]—Information Systems
+* [[IS-IS]]—Intermediate System to Intermediate System
 * [[Industry Standard Architecture|ISA]]—Industry Standard Architecture
 * [[Instruction set|ISA]]—Instruction Set Architecture
 * [[ISAM]]—Indexed Sequential Access Method
+* [[ISATAP]]—Intra-Site Automatic Tunnel Addressing Protocol
 * [[Internet Storm Center|ISC]]—Internet Storm Center
 * [[iSCSI]]—Internet Small Computer System Interface
 * [[Integrated services digital network|ISDN]]—Integrated Services Digital Network
@@ -689,13 +755,15 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Interrupt handler|ISR]]—Interrupt Service Routine
 * [[Independent software vendor|ISV]]—Independent Software Vendor
 * [[Information technology|IT]]—Information Technology
+* [[Information Technology Infrastructure Library|ITIL]]—Information Technology Infrastructure Library
 * [[Interval temporal logic|ITL]]—Interval Temporal Logic
 * [[International Telecommunication Union|ITU]]—International Telecommunication Union
-* [[Interactive voice response|IVRS]]-Interactive Voice Response System
+* [[Interactive voice response|IVRS]]—Interactive Voice Response System
+* [[Interactive Virtual Classroom|IVCR]]—Interactive Virtual Classroom
 {{div col end}}
 
 == J ==
-{{div col|3}}
+{{div col|colwidth=22em}}
 * [[Java Platform, Enterprise Edition|J2EE]]—Java 2 Enterprise Edition
 * [[Java Platform, Micro Edition|J2ME]]—Java 2 Micro Edition
 * [[Java Platform, Standard Edition|J2SE]]—Java 2 Standard Edition
@@ -708,6 +776,7 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Java Community Process|JCP]]—Java Community Process
 * [[Java Database Connectivity|JDBC]]—Java Database Connectivity
 * [[Java Development Kit|JDK]]—Java Development Kit
+* [[Java Platform, Enterprise Edition|JEE]]—Java Enterprise Edition
 * [[Job Entry Subsystem 2/3|JES]]—Job Entry Subsystem
 * [[Java Desktop System|JDS]]—Java Desktop System
 * [[Java Foundation Classes|JFC]]—Java Foundation Classes
@@ -715,6 +784,7 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[JFS (file system)|JFS]]—IBM Journaling File System
 * [[Jini|JINI]]—Jini Is Not Initials
 * [[Just-in-time compilation|JIT]]—Just-In-Time
+* [[Java Platform, Micro Edition|JME]]—Java Micro Edition
 * [[Java Management Extensions|JMX]]—Java Management Extensions
 * [[Java Message Service|JMS]]—Java Message Service
 * [[Java Naming and Directory Interface|JNDI]]—Java Naming and Directory Interface
@@ -723,39 +793,43 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[JPEG]]—Joint Photographic Experts Group
 * [[Java Runtime Environment|JRE]]—Java Runtime Environment
 * [[JavaScript|JS]]—JavaScript
+* [[Java Platform, Standard Edition|JSE]]—Java Standard Edition
 * [[JSON]]—JavaScript Object Notation
 * [[Jackson Structured Programming|JSP]]—Jackson Structured Programming
 * [[JavaServer Pages|JSP]]—JavaServer Pages
 * [[Joint Test Action Group|JTAG]]—Joint Test Action Group
 * [[Java User Group|JUG]]—Java Users Group
 * [[Java Virtual Machine|JVM]]—Java Virtual Machine
-* [[Jamie Zawinski|jwz]]—Jamie Zawinski
 {{div col end}}
 
 == K ==
-{{div col|3}}
+{{div col|colwidth=22em}}
 * [[The C Programming Language (book)|K&amp;R]]—Kernighan and Ritchie
 * [[Keyboard (computing)|KB]]—Keyboard
 * [[Kilobit|Kb]]—Kilobit
 * [[Kilobyte|KB]]—Kilobyte
 * [[Knowledge base|KB]]—Knowledge Base
+* [[Kibibyte|KiB]]—Kibibyte
 * [[KDE]]—K Desktop Environment
 * [[Kilohertz|kHz]]—Kilohertz
-* [[KM programming language|KM]]—Knowledge Machine
+* KM—Knowledge Machine
 * [[KRL (programming language)|KRL]]—Knowledge Representation Language
 * [[KVM switch|KVM]]—Keyboard, Video, Mouse
 {{div col end}}
 
 == L ==
-{{div col|3}}
+{{div col|colwidth=22em}}
 * [[Internationalization and localization|L10N]]—Localization
 * [[Layer 2 Tunneling Protocol|L2TP]]—Layer two Tunneling Protocol
+* [[Link Aggregation Control Protocol|LACP]]—Link Aggregation Control Protocol
 * [[LAMP (software bundle)|LAMP]]—Linux Apache MySQL Perl
 * [[LAMP (software bundle)|LAMP]]—Linux Apache MySQL PHP
 * [[LAMP (software bundle)|LAMP]]—Linux Apache MySQL Python
 * [[Local area network|LAN]]—Local Area Network
 * [[Logical block addressing|LBA]]—Logical Block Addressing
+* [[Load balancing (computing)|LB]]—Load Balancer
 * [[Liquid crystal display|LCD]]—Liquid Crystal Display
+* [[Least Cost Routing|LCR]]—Least Cost Routing
 * [[Liquid crystal on silicon|LCOS]]—Liquid Crystal On Silicon
 * [[Lightweight Directory Access Protocol|LDAP]]—Lightweight Directory Access Protocol
 * [[Logical volume management|LE]]—Logical Extents
@@ -774,10 +848,12 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Source lines of code|LOC]]—Lines of Code
 * [[LPC (programming language)|LPC]]—Lars Pensjö C
 * [[Linux Professional Institute|LPI]]—Linux Professional Institute
-* [[LPT]]{{mdash}} Line Print Terminal
+* [[Parallel port|LPT]]{{mdash}} Line Print Terminal
+* [[Least Recently Used|LRU]]—Least Recently Used
 * [[Least significant bit|LSB]]—Least Significant Bit
 * [[Linux Standard Base|LSB]]—Linux Standard Base
-* [[Integrated circuit#LSI|LSI]]—Large-Scale Integration
+* [[Large Scale Integration|LSI]]—Large-Scale Integration
+* [[Long Term Evolution|LTE]]—Long Term Evolution
 * [[Linear temporal logic|LTL]]—Linear Temporal Logic
 * [[Bi-directional text|LTR]]—Left-to-Right
 * [[Linux User Group|LUG]]—Linux User Group
@@ -786,10 +862,11 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Low-voltage differential signaling|LVD]]—Low Voltage Differential
 * [[Logical volume management|LVM]]—Logical Volume Management
 * [[Lempel–Ziv–Welch|LZW]]—Lempel-Ziv-Welch
+* [[Land Grid Array|LGA]]—Land Grid Array
 {{div col end}}
 
 == M ==
-{{div col|3}}
+{{div col|colwidth=22em}}
 * [[Mandatory access control|MAC]]—Mandatory Access Control
 * [[Media Access Control|MAC]]—Media Access Control
 * [[Metropolitan area network|MAN]]—Metropolitan Area Network
@@ -798,16 +875,18 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Megabit|Mb]]—Megabit
 * [[Megabyte|MB]]—Megabyte
 * [[Multi-byte character set|MBCS]]—Multi Byte Character Set
+* [[Model-based design|MBD]]—Model-Based Design
 * [[Master boot record|MBR]]—Master Boot Record
 * [[Micro Channel architecture|MCA]]—Micro Channel Architecture
 * [[Microsoft Certified Professional|MCA]]—Microsoft Certified Architect
 * [[Microsoft Certified Professional#Microsoft Certified Application Developer or M.C.A.D.|MCAD]]—Microsoft Certified Application Developer
 * [[Microsoft Certified Professional#Microsoft Certified Application Specialist or M.C.A.S.|MCAS]]—Microsoft Certified Application Specialist
-* [[Microsoft Certified Professional#Microsoft Certified Database Administrator or M.C.D.B.A.|MCDBA]]—Microsoft Certified DataBase Administrator
+* [[MCDBA]]—Microsoft Certified DataBase Administrator
 * [[Microsoft Certified Professional#Microsoft Certified Desktop Support Technician or M.C.D.S.T.|MCDST]]—Microsoft Certified Desktop Support Technician
 * [[Microsoft Certified Professional|MCITP]]—Microsoft Certified Information Technology Professional
 * [[Microsoft Certified Professional|MCM]]—Microsoft Certified Master
 * [[Microsoft Certified Professional|MCP]]—Microsoft Certified Professional
+* [[Multiple Channels Per Carrier |MCPC]]—Multiple Channels Per Carrier 
 * [[Microsoft Certified Professional|MCPD]]—Microsoft Certified Professional Developer
 * [[Microsoft Certified Professional#Microsoft Certified Systems Administrator or M.C.S.A.|MCSA]]—Microsoft Certified Systems Administrator
 * [[Microsoft Certified Professional#Microsoft Certified Solution Developer or M.C.S.D.|MCSD]]—Microsoft Certified Solution Developer
@@ -817,8 +896,10 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Mail delivery agent|MDA]]—Mail Delivery Agent
 * [[Model-driven architecture|MDA]]—Model-Driven Architecture
 * [[IBM Monochrome Display Adapter|MDA]]—Monochrome Display Adapter
+* [[Model-driven software development|MDD/MDSD]]—Model-Driven (Software) Development
 * [[Main distribution frame|MDF]]—Main Distribution Frame
 * [[Multiple document interface|MDI]]—Multiple Document Interface
+* [[Microsoft Edge|ME]]—Microsoft Edge
 * [[Windows Me|ME]]—[Windows] Millennium Edition
 * [[Medium frequency|MF]]—Medium Frequency
 * [[Microsoft Foundation Class Library|MFC]]—Microsoft Foundation Classes
@@ -837,20 +918,25 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[MISD]]—Multiple Instruction, Single Data
 * [[Massachusetts Institute of Technology|MIT]]—Massachusetts Institute of Technology
 * [[MIME]]—Multipurpose Internet Mail Extensions
+* [[Multichannel Multipoint Distribution Service|MMDS]]—Multichannel Multipoint Distribution Service
 * [[Mortality Medical Data System|MMDS]]—Mortality Medical Data System
 * [[Man-machine interface|MMI]]—Man Machine Interface.
 * [[Memory-mapped I/O|MMIO]]—Memory-Mapped I/O
 * [[Massively multiplayer online role-playing game|MMORPG]]—Massively Multiplayer Online Role-Playing Game
+* [[Microsoft Management Console|MMC]]— Microsoft Management Console
+* [[Multi-mode optical fiber|MMF]]—Multi-Mode (optical) Fiber
 * [[Memory management unit|MMU]]—Memory Management Unit
 * [[MMX (instruction set)|MMX]]—Multi-Media Extensions
 * [[Multiple-image Network Graphics|MNG]]—Multiple-image Network Graphics
 * [[Motherboard|MoBo]]—Motherboard
 * [[Message-oriented middleware|MOM]]—Message-Oriented Middleware
 * [[MOO]]—MUD Object Oriented
+* [[Metaobject protocol|MOP]]—Meta-Object Protocol
 * [[Microsoft Certified Professional#Microsoft Office Specialist or M.O.S.|MOS]]—Microsoft Office Specialist
 * [[MOSFET]]—Metal-Oxide Semiconductor Field Effect Transistor
-* MOTD—Message Of The Day
+* [[Motd (Unix)|MOTD]]—Message Of The Day
 * [[Microsoft Certified Professional|MOUS]]—Microsoft Office User Specialist
+* [[QuickTime File Format|MOV]]—Apple QuickTime Multimedia File
 * [[Motion Picture Association of America|MPAA]]—Motion Picture Association of America
 * [[Moving Picture Experts Group|MPEG]]—Motion Pictures Experts Group
 * [[Mozilla Public License|MPL]]—Mozilla Public License
@@ -859,6 +945,7 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[USB flash drive|MS]]—Memory Stick
 * [[Microsoft|MS]]—Microsoft
 * [[Most significant bit|MSB]]—Most Significant Bit
+* [[Microsoft Network|MSN]]—Microsoft Network
 * [[MS-DOS]]—Microsoft DOS
 * [[Machine translation|MT]]—Machine Translation
 * [[Message transfer agent|MTA]]—Mail Transfer Agent
@@ -875,29 +962,34 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Model–view–controller|MVC]]—Model-View-Controller
 * [[Microsoft Most Valuable Professional|MVP]]—Most Valuable Professional
 * [[MVS]]—Multiple Virtual Storage
+* [[Mobile World Congress|MWC]]—Mobile World Congress
 * [[MX record|MX]]—Mail exchange
 * [[Material Exchange Format|MXF]]—Material Exchange Format
 {{div col end}}
 
 == N ==
-{{div col|3}}
+{{div col|colwidth=22em}}
 * [[Negative-acknowledge character|NACK]]—Negative ACKnowledgement
 * [[Negative-acknowledge character|NAK]]—Negative AcKnowledge Character
 * [[NaN]]—Not a Number
+* [[Network Access Protection|NAP]]—Network Access Protection
 * [[Network-attached storage|NAS]]—Network-Attached Storage
 * [[Netwide Assembler|NASM]]—Netwide ASseMbler
 * [[Network address translation|NAT]]—Network Address Translation
 * [[NetWare Core Protocol|NCP]]—NetWare Core Protocol
 * [[Native Command Queuing|NCQ]]—Native Command Queuing
 * [[National Center for Supercomputing Applications|NCSA]]—National Center for Supercomputing Applications
+* [[Network Driver Interface Specification|NDIS]]—Network Driver Interface Specification
 * [[Novell Embedded Systems Technology|NDPS]]—Novell Distributed Print Services
 * [[Novell Directory Services|NDS]]—Novell Directory Services
 * [[Network Equipment Provider|NEP]]—Network Equipment Provider
 * [[NetBIOS]]—Network Basic Input/Output System
+* [[NetBIOS over TCP/IP|NetBT]]—NetBIOS over TCP/IP
 * [[Near end crosstalk|NEXT]]—Near-End CrossTalk
 * [[Nondeterministic finite automaton|NFA]]—Nondeterministic Finite Automaton
+* [[Near field communication|NFC]]—Near field communication
 * [[Network File System (protocol)|NFS]]—Network File System
-* [[NGL (programming language)|NGL]]—aNGeL
+* NGL—aNGeL
 * [[Next-Generation Secure Computing Base|NGSCB]]—Next-Generation Secure Computing Base
 * [[National Instruments|NI]]—National Instruments
 * [[Network interface controller|NIC]]—Network Interface Controller
@@ -906,18 +998,19 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[National Institute of Standards and Technology|NIST]]—National Institute of Standards and Technology
 * [[Natural language processing|NLP]]—Natural Language Processing
 * [[Internationalization and localization|NLS]]—Native Language Support
-* [[NP (complexity)|NP]]—Nondeterministic Polynomial time
-* [[Netscape Public License|NPL]]—Netscape Public License
-* [[Network Processing Unit|NPU]]—Network Processing Unit
-* [[Netscape|NS]]—Netscape
-* [[National Security Agency|NSA]]—National Security Agency
-* [[Netscape Portable Runtime|NSPR]]—Netscape Portable Runtime
 * [[Non-maskable interrupt|NMI]]—Non-Maskable Interrupt
 * [[Network News Transfer Protocol|NNTP]]—Network News Transfer Protocol
 * [[Network operations center|NOC]]—Network Operations Center
 * [[NOP]]—No OPeration
 * [[Network operating system|NOS]]—Network Operating System
+* [[NP (complexity)|NP]]—Nondeterministic Polynomial time
+* [[Netscape Public License|NPL]]—Netscape Public License
 * [[Native POSIX Thread Library|NPTL]]—Native POSIX Thread Library
+* [[Network Processing Unit|NPU]]—Network Processing Unit
+* [[Netscape|NS]]—Netscape
+* [[Network Security Appliance|NSA]]—Network Security Appliance
+* [[Network Service Interface|NSI]]—Network Service Interface
+* [[Netscape Portable Runtime|NSPR]]—Netscape Portable Runtime
 * [[Novell Storage Services|NSS]]—Novell Storage Service
 * [[Network Security Services|NSS]]—Network Security Services
 * [[Name Service Switch|NSS]]—Name Service Switch
@@ -932,14 +1025,16 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 {{div col end}}
 
 == O ==
-{{div col|3}}
+{{div col|colwidth=22em}}
 * [[OASIS (organization)|OASIS]]—Organization for the Advancement of Structured Information Standards
 * [[Operational Acceptance Testing|OAT]]—Operational Acceptance Testing
 * [[OBSAI]]—Open Base Station Architecture Initiative
-* [[Open Database Connectivity|ODBC]]—Open DataBase Connectivity
+* [[Open Database Connectivity|ODBC]]—Open Database Connectivity
 * [[Original equipment manufacturer|OEM]]—Original Equipment Manufacturer
-* [[Novell Open Enterprise Server|OES]]—Open Enterprise Server
+* [[Open Enterprise Server|OES]]—Open Enterprise Server
+* [[Orthogonal Frequency Division Multiplexing|OFDM]]—Orthogonal Frequency Division Multiplexing
 * [[Open and Free Technology Community|OFTC]]—Open and Free Technology Community
+* [[Object identifier|OID]]—Object Identifier
 * [[Online analytical processing|OLAP]]—Online Analytical Processing
 * [[Object Linking and Embedding|OLE]]—Object Linking and Embedding
 * [[Organic light-emitting diode|OLED]]—Organic Light Emitting Diode
@@ -947,6 +1042,7 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Online transaction processing|OLTP]]—Online Transaction Processing
 * [[Relocatable Object Module Format|OMF]]—Object Module Format
 * [[Object Management Group|OMG]]—Object Management Group
+* [[Optical Mark Recognition|OMR]]—Optical Mark Reader
 * [[Object-oriented programming|OO]]—Object-Oriented
 * [[OpenOffice.org|OO]]—OpenOffice
 * [[Out-of-order execution|OOE]]—Out-of-Order Execution
@@ -954,14 +1050,14 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[OpenOffice.org|OOo]]—OpenOffice.org
 * [[Out-of-order execution|OoOE]]—Out-of-Order Execution
 * [[Object-oriented programming|OOP]]—Object-Oriented Programming
-* [[Out of the box|OOTB]]—Out of the box
+* [[Out of the box (feature)|OOTB]]—Out of the box
 * [[OPML]]—Outline Processor Markup Language
 * [[Object request broker|ORB]]—Object Request Broker
-* [[Object-relational mapping|ORM]]—Oject-Relational Mapping
+* [[Object-relational mapping|ORM]]—Object-Relational Mapping
 * [[Open source|OS]]—Open Source
 * [[Operating system|OS]]—Operating System
 * [[O'Reilly Open Source Convention|OSCON]]—O'Reilly Open Source CONvention
-* [[Open Source Technology Group|OSDN]]—Open Source Developer Network
+* [[OSDN]]—Open Source Development Network
 * [[Open Source Initiative|OSI]]—Open Source Initiative
 * [[Open Systems Interconnection|OSI]]—Open Systems Interconnection
 * [[Open Shortest Path First|OSPF]]—Open Shortest Path First
@@ -969,21 +1065,22 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Open source software|OSS]]—Open-Source Software
 * [[Operations support system|OSS]]—Operations Support System
 * [[Open Source Technology Group|OSTG]]—Open Source Technology Group
-* [[Organizationally Unique Identifier|OUI]]—Organizationally Unique Identifier
+* [[Organizationally Unique Identifier|OUI]]—Organisationally Unique Identifier
 {{div col end}}
 
 == P ==
-{{div col|3}}
+{{div col|colwidth=22em}}
 * [[Peer-to-peer|P2P]]—Peer-To-Peer
-* [[Programmable automation controller|PAC]]—Programmable Automation Controller
+* [[Platform as a service|PaaS]]—Platform as a Service
 * [[Personal area network|PAN]]—Personal Area Network
 * [[Password authentication protocol|PAP]]—Password Authentication Protocol
 * [[PARC (company)|PARC]]—Palo Alto Research Center
 * [[Parallel ATA|PATA]]—Parallel ATA
+* [[Portable Batch System|PBS]]—Portable Batch System
 * [[Personal computer|PC]]—Personal Computer
 * [[Printed circuit board|PCB]]—Printed Circuit Board
 * [[Process control block|PCB]]—Process Control Block
-* [[IBM PC DOS|PC DOS]]—Personal Computer Disk Operating System
+* [[IBM PC DOS|PC DOS]]—Personal Computer Disc Operating System
 * [[Peripheral Component Interconnect|PCI]]—Peripheral Component Interconnect
 * [[PCI Express|PCIe]]—PCI Express
 * [[Printer Command Language|PCL]]—Printer Command Language
@@ -993,19 +1090,24 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Public domain|PD]]—Public Domain
 * [[Personal digital assistant|PDA]]—Personal Digital Assistant
 * [[Portable Document Format|PDF]]—Portable Document Format
+* [[Plesiochronous Digital Hierarchy|PDH]]—Plesiochronous Digital Hierarchy
 * [[Programmed Data Processor|PDP]]—Programmed Data Processor
 * [[Logical volume management|PE]]—Physical Extents
 * [[Perl|PERL]]—Practical Extraction and Reporting Language
+* [[Please Find Atachment|PFA]]—Please Find Attachment
+* [[Peripheral Gateway|PG]]—Peripheral Gateway
 * [[Pin grid array|PGA]]—Pin Grid Array
+* [[Field-programmable gate array|PGA]]—Programmable Gate Array
 * [[Profile-guided optimization|PGO]]—Profile-Guided Optimization
 * [[Pretty Good Privacy|PGP]]—Pretty Good Privacy
-* [[PHP]]—PHP: Hypertext Preprocessor
+* [[PHP]]—Hypertext Preprocessor
 * [[PIC microcontroller|PIC]]—Peripheral Interface Controller
 * [[Programmable Interrupt Controller|PIC]]—Programmable Interrupt Controller
 * [[PID controller|PID]]—Proportional-Integral-Derivative
 * [[Process identifier|PID]]—Process ID
 * [[Personal information manager|PIM]]—Personal Information Manager
 * [[Pine (e-mail client)|PINE]]—Program for Internet News and Email
+* [[Platform Independent Model|PIM]]—Platform Independent Model
 * [[Programmed input/output|PIO]]—Programmed Input/Output
 * [[PKCS]]—Public Key Cryptography Standards
 * [[Public key infrastructure|PKI]]—Public Key Infrastructure
@@ -1015,15 +1117,17 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[PL/I]]—Programming Language One
 * [[PL/M]]—Programming Language for Microcomputers
 * [[PL/P]]—Programming Language for Prime
-* [[Power line communication|PLT]]—Power Line Telecoms
+* [[Power line communication|PLT]]—Power Line Telecommunications
 * [[Power-on self-test|PMM]]—POST Memory Manager
 * [[Portable Network Graphics|PNG]]—Portable Network Graphics
 * [[Plug and play|PnP]]—Plug-and-Play
+* [[Peer Name Resolution Protocol|PNRP]]—Peer Name Resolution Protocol
 * [[Power over Ethernet|PoE]]—Power over Ethernet
 * [[Persistent Object Identifier|POID]]—Persistent Object Identifier
+* [[Plain Old Java Object|POJO]]—Plain Old Java Object
 * [[Point of presence|POP]]—Point of Presence
 * [[Post Office Protocol|POP3]]—Post Office Protocol v3
-* [[POSIX]]—Portable Operating System Interface
+* [[POSIX]]—Portable Operating System Interface, formerly IEEE-IX
 * [[Power-on self-test|POST]]—Power-On Self Test
 * [[PowerPC|PPC]]—PowerPC
 * [[Pixels per inch|PPI]]—Pixels Per Inch
@@ -1031,9 +1135,11 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Point-to-Point Protocol over ATM|PPPoA]]—PPP over ATM
 * [[Point-to-Point Protocol over Ethernet|PPPoE]]—PPP over Ethernet
 * [[Point-to-point tunneling protocol|PPTP]]—Point-to-Point Tunneling Protocol
+* [[Pull request|PR]]—Pull Request
 * [[PostScript|PS]]—PostScript
-* [[Professional Services Automation|PSA]]—Professional Services Automation
 * [[IBM Personal System/2|PS/2]]—Personal System/2
+* [[Professional Services Automation|PSA]]—Professional Services Automation
+* [[Platform Specific Model|PSM]]—Platform Specific Model
 * [[Power supply|PSU]]—Power Supply Unit
 * [[PSVI]]—Post-Schema-Validation Infoset
 * [[PTS-DOS]]—PhysTechSoft - Disk Operating System
@@ -1045,7 +1151,7 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 {{div col end}}
 
 == Q ==
-{{div col|3}}
+{{div col|colwidth=22em}}
 * [[Quad Data Rate SRAM|QDR]]—Quad Data Rate
 * [[Quality control|QA]]—Quality Assurance
 * [[Quad Flat Package|QFP]]—Quad Flat Package
@@ -1053,31 +1159,36 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[QOTD]]—Quote of the Day
 * [[Qt (toolkit)|Qt]]—Quasar Toolkit
 * [[Queued teleprocessing access method|QTAM]]—Queued Teleprocessing Access Method
+* [[Quarter Small Outline Package|QSOP]]—Quarter Small Outline Package
+* [[Quality Windows Audio/Video Experience|qWave]]—Quality Windows Audio/Video Experience
 {{div col end}}
 
 == R ==
-{{div col|3}}
+{{div col|colwidth=22em}}
 * [[RACF]]—Resource Access Control Facility
 * [[Rapid application development|RAD]]—Rapid Application Development
 * [[RADIUS]]—Remote Authentication Dial In User Service
 * [[RAID]]—Redundant Array of Independent Disks
-* [[RAID]]—Redundant Array of Inexpensive Disks
+* [[Resource Acquisition Is Initialization|RAII]]—Resource Acquisition Is Initialization
 * [[RAID|RAIT]]—Redundant Array of Inexpensive Tapes
 * [[Random-access memory|RAM]]—Random Access Memory
 * [[Reverse Address Resolution Protocol|RARP]]—Reverse Address Resolution Protocol
-* [[Reliability, Availability and Serviceability|RAS]]—Reliability, Availability and Serviceability
-* [[Remote Access Service|RAS]]—Remote Access Service
-* [[Routing and Remote Access Service|RRAS]] Routing and Remote Access Service
+* [[Reliability, availability and serviceability (computer hardware)|RAS]]—Reliability, Availability and Serviceability
+* [[remote access service|RAS]]—Remote access service
 * [[DVD region code|RC]]—Region Code
 * [[Release Candidate|RC]]—Release Candidate
 * [[Run commands|RC]]—Run Commands
 * [[Revision Control System|RCS]]—Revision Control System
-* [[Relational database management system|RDBMS]]—Relational DataBase Management System
+* [[Remote desktop software|RD]]—Remote Desktop
+* [[remove directory|rd]]—remove directory
+* [[Relational database management system|RDBMS]]—Relational Database Management System
+* [[Remote Desktop Connection|RDC]]—Remote Desktop Connection
 * [[Resource Description Framework|RDF]]—Resource Description Framework
 * [[Relational data model|RDM]]—Relational Data Model
-* [[RDOS]]—Real-time Disk Operating System
+* [[RTOS|RDOS]]—Real-time Disk Operating System
+* [[Remote Desktop Protocol|RDP]]— Remote Desktop Protocol
 * [[Remote Data Services|RDS]]—Remote Data Services
-* [[Refal|REFAL]]—REcursive Functions Algorithmic Language
+* [[Refal|REFAL]]—Recursive Functions Algorithmic Language
 * [[Representational State Transfer|REST]]—Representational State Transfer
 * [[Regular expression|regex]]—Regular Expression
 * [[Regular expression|regexp]]—Regular Expression
@@ -1099,14 +1210,16 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Remote job entry|RJE]]—Remote Job Entry
 * [[Run-length encoding|RLE]]—Run-Length Encoding
 * [[Run-length limited|RLL]]—Run-Length Limited
+* [[remove directory|rmdir]]—remove directory
 * [[Java remote method invocation|RMI]]—Remote Method Invocation
 * [[Richard Stallman|RMS]]—Richard Matthew Stallman
 * [[Read-only memory|ROM]]—Read Only Memory
 * [[S-LINK|ROMB]]—Read-Out Motherboard
-* [[Datalight#ROM-DOS|ROM-DOS]]—Read Only Memory - Disk Operating System
+* [[ROM-DOS]]—Read Only Memory - Disk Operating System
 * [[Remote procedure call|RPC]]—Remote Procedure Call
 * [[IBM RPG|RPG]]—Report Program Generator
 * [[RPM Package Manager|RPM]]—RPM Package Manager
+* [[Routing and Remote Access Service|RRAS]]—Routing and Remote Access Service
 * [[RSA (algorithm)|RSA]]—Rivest Shamir Adleman
 * [[Repetitive strain injury|RSI]]—Repetitive Strain Injury
 * [[Radio Service Software|RSS]]—Radio Service Software
@@ -1118,31 +1231,40 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Bi-directional text|RTL]]—Right-to-Left
 * [[Real-time operating system|RTOS]]—Real-Time Operating System
 * [[Real-time Transport Protocol|RTP]]—Real-time Transport Protocol
-* [[Transmit flow control|RTS]]—Ready To Send
+* [[Flow control (data)|RTS]]—Ready To Send
 * [[Real Time Streaming Protocol|RTSP]]—Real Time Streaming Protocol
+* [[Run-time type information|RTTI]]—Run-time Type Information
+* [[Responsive Web Design|RWD]]—Responsive Web Design
 {{div col end}}
 
 == S ==
-{{div col|3}}
+{{div col|colwidth=22em}}
 * [[Software as a service|SaaS]]—Software as a Service
+* [[Security Account Manager|SAM]]— Security Account Manager
 * [[Storage area network|SAN]]—Storage Area Network
+* [[Serial attached SCSI|SAS]]—Serial attached SCSI
 * [[Serial ATA|SATA]]—Serial ATA
 * [[Simple API for XML|SAX]]—Simple API for XML
 * [[Spinning beachball of death|SBOD]]—Spinning Beachball of Death
 * [[Serial Bus Protocol 2|SBP-2]]—Serial Bus Protocol 2
 * [[sbin]]—superuser binary
+* [[Windows Small Business Server|sbs]]—Small Business Server
 * [[Standard Build Unit|SBU]]—Standard Build Unit
 * [[SCADA]]—Supervisory Control And Data Acquisition
 * [[Source Code in Database|SCID]]—Source Code in Database
 * [[Software configuration management|SCM]]—Software Configuration Management
 * [[Revision control|SCM]]—Source Code Management
 * [[Secure copy|SCP]]—Secure Copy
+* [[Single channel per carrier|SCPC]]—Single Channel Per Carrier  
 * [[Standard Commands for Programmable Instruments|SCPI]]—Standard Commands for Programmable Instrumentation
+* [[Secure Content Storage Association|SCSA]]—Secure Content Storage Association
 * [[SCSI]]—Small Computer System Interface
 * [[Stream Control Transmission Protocol|SCTP]]—Stream Control Transmission Protocol
 * [[Secure Digital|SD]]—Secure Digital
-* [[Security descriptor|SDDL]]—Security Descriptor Definition Language
+* [[SDDL]]—Security Descriptor Definition Language
+* [[Synchronous Digital Hierarchy|SDH]]—Synchronous Digital Hierarchy
 * [[Single document interface|SDI]]—Single Document Interface
+* [[Single Edge Contact|SEC]]—Single Edge Contact
 * [[Secure Digital|SDIO]]—Secure Digital Input Output
 * [[Software development kit|SDK]]—Software Development Kit
 * [[Simple DirectMedia Layer|SDL]]—Simple DirectMedia Layer
@@ -1152,14 +1274,14 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Synchronous dynamic random access memory|SDRAM]]—Synchronous Dynamic Random Access Memory
 * [[Symmetric digital subscriber line|SDSL]]—Symmetric DSL
 * [[Single-ended signalling|SE]]—Single Ended
-* SEAL—Semantics-directed Environment Adaptation Language
 * [[Software Engineering Institute|SEI]]—Software Engineering Institute
 * [[Search engine optimization|SEO]]—Search Engine Optimization
-* [[Secure FTP|SFTP]]—Secure FTP
+* [[FTP over SSH|SFTP]]—Secure FTP
 * [[Simple File Transfer Protocol|SFTP]]—Simple File Transfer Protocol
 * [[SSH file transfer protocol|SFTP]]—SSH File Transfer Protocol
 * [[Silicon Graphics|SGI]]—Silicon Graphics, Incorporated
 * [[Standard Generalized Markup Language|SGML]]—Standard Generalized Markup Language
+* [[ANSI escape code#graphics|SGR]]—Select Graphic Rendition
 * [[Secure Hash Algorithm|SHA]]—Secure Hash Algorithm
 * [[Single-pair high-speed digital subscriber line|SHDSL]]—Single-pair High-speed Digital Subscriber Line
 * [[SIGCAT]]—Special Interest Group on CD-ROM Applications and Technology
@@ -1167,23 +1289,27 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[SIMD]]—Single Instruction, Multiple Data
 * [[SIMM]]—Single Inline Memory Module
 * [[Session Initiation Protocol|SIP]]—Session Initiation Protocol
-* [[Mapping of Unicode characters|SIP]]—Supplementary Ideographic Plane
+* [[Supplementary Ideographic Plane|SIP]]—Supplementary Ideographic Plane
 * [[SISD]]—Single Instruction, Single Data
-* [[Single-Input and Single-Output|SISO]] - Single-Input and Single-Output
+* [[Single-Input and Single-Output|SISO]]—Single-Input and Single-Output
 * [[SUSE Linux Enterprise Desktop|SLED]]—SUSE Linux Enterprise Desktop
 * [[SUSE Linux Enterprise Server|SLES]]—SUSE Linux Enterprise Server
 * [[Scalable Link Interface|SLI]]—Scalable Link Interface
 * [[Serial Line Internet Protocol|SLIP]]—Serial Line Internet Protocol
 * [[Service Level Management|SLM]]—Service Level Management
 * [[Source lines of code|SLOC]]—Source Lines of Code
+* [[Subject Matter Expert|SME]]—Subject Matter Expert
+* [[Single-mode optical fiber|SMF]]—Single-Mode (optical) Fiber
+* [[Software project management|SPM]]—Software project management
 * [[SPMD]]—Single Program, Multiple Data
 * [[SMA connector|SMA]]—SubMiniature version A
 * [[Server Message Block|SMB]]—Server Message Block
 * [[System Management BIOS|SMBIOS]]—System Management BIOS
 * [[Synchronized Multimedia Integration Language|SMIL]]—Synchronized Multimedia Integration Language
 * [[S/MIME]]—Secure/Multipurpose Internet Mail Extensions
-* [[Mapping of Unicode characters|SMP]]—Supplementary Multilingual Plane
+* [[Supplementary Multilingual Plane|SMP]]—Supplementary Multilingual Plane
 * [[Symmetric multiprocessing|SMP]]—Symmetric Multi-Processing
+* [[Switched-mode power supply|SMPS]]—Switch Mode Power Supply
 * [[SMS]]—Short Message Service
 * [[System Management Server|SMS]]—System Management Server
 * [[Simultaneous multithreading|SMT]]—Simultaneous Multithreading
@@ -1192,34 +1318,41 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Simple Network Management Protocol|SNMP]]—Simple Network Management Protocol
 * [[SNTP]]—Simple Network Time Protocol
 * [[Service-oriented architecture|SOA]]—Service-Oriented Architecture
-* [[Standard Operating Environment|SOE]]—Standard Operating Environment
 * [[SOAP]]—Simple Object Access Protocol
+* [[Symbolic Optimal Assembly Program|SOAP]]—Symbolic Optimal Assembly Program
+* [[Stop Online Piracy Act|SOPA]]—Stop Online Piracy Act
 * [[System-on-a-chip|SoC]]—System-on-a-Chip
 * [[SO-DIMM]]—Small Outline DIMM
+* [[Standard Operating Environment|SOE]]—Standard Operating Environment
 * [[Small office/home office|SOHO]]—Small Office/Home Office
 * [[Silicon on insulator|SOI]]—Silicon On Insulator
 * [[Service pack|SP]]—Service Pack
-* SPA—Single Page Application
+* [[Single-page application|SPA]]—Single Page Application
 * [[Sender Policy Framework|SPF]]—Sender Policy Framework
 * [[Serial Peripheral Interface Bus|SPI]]—Serial Peripheral Interface
 * [[Stateful Packet Inspection|SPI]]—Stateful Packet Inspection
 * [[SPARC]]—Scalable Processor Architecture
 * [[SQL]]—Structured Query Language
 * [[Static random access memory|SRAM]]—Static Random Access Memory
+* [[Static single assignment form|SSA]]—Static Single Assignment
 * [[V-Model (software development)|SSD]]—Software Specification Document
 * [[Solid-state drive|SSD]]—Solid-State Drive
+* [[Simple Service Discovery Protocol|SSDP]]—Simple Service Discovery Protocol
 * [[Streaming SIMD Extensions|SSE]]—Streaming SIMD Extensions
 * [[Secure Shell|SSH]]—Secure Shell
 * [[Server Side Includes|SSI]]—Server Side Includes
 * [[Single-system image|SSI]]—Single-System Image
-* [[Integrated circuit#SSI|SSI]]—Small-Scale Integration
+* [[Small Scale Integration|SSI]]—Small-Scale Integration
 * [[Service set (802.11 network)|SSID]]—Service Set Identifier
 * [[Secure Sockets Layer|SSL]]—Secure Socket Layer
-* [[Mapping of Unicode characters|SSP]]—Supplementary Special-purpose Plane
+* [[Single Sign On|SSO]]—Single Sign On
+* [[Supplementary Special-purpose Plane|SSP]]—Supplementary Special-purpose Plane
 * [[Streaming SIMD Extensions|SSSE]]—Supplementary Streaming SIMD Extensions
+* [[Shortest Path Problem #Single-source shortest paths|SSSP]]—Single Source Shortest Path
+* [[Secure Socket Tunneling Protocol|SSTP]]—Secure Socket Tunneling Protocol
 * [[su (Unix)|su]]—superuser
 * [[Single UNIX Specification|SUS]]—Single UNIX Specification
-* [[SUSE Linux distributions|SUSE]]—Software und System-Entwicklung
+* [[SUSE Linux|SUSE]]—Software und System-Entwicklung
 * [[Scalable Video Coding|SVC]]—Scalable Video Coding
 * [[Scalable Vector Graphics|SVG]]—Scalable Vector Graphics
 * [[Super Video Graphics Array|SVGA]]—Super Video Graphics Array
@@ -1230,29 +1363,34 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 {{div col end}}
 
 == T ==
-{{div col|3}}
+{{div col|colwidth=22em}}
 * [[Optical disc recording modes|TAO]]—Track-At-Once
+* [[Telephony Application Programming Interface|TAPI]]—Telephony Application Programming Interface
 * [[Turbo Assembler|TASM]]—Turbo ASseMbler
 * [[Terabyte|TB]]—TeraByte
 * [[Tcl]]—Tool Command Language
 * [[Transmission Control Protocol|TCP]]—Transmission Control Protocol
 * [[Internet Protocol Suite|TCP/IP]]—Transmission Control Protocol/Internet Protocol
 * [[Telecommunication Control Unit|TCU]]—Telecommunication Control Unit
-* [[Time division multiple access|TDMA]]—Time Division Multiple Access
-* [[Thin-film transistor|TFT]]—Thin Film Transistor
+* [[Time-division multiple access|TDMA]]—Time-Division Multiple Access
+* [[Thin-film transistor|TFT]]—Thin-Film Transistor
+* [[ tif ]]- image(Tagged Image File Format) 
+* [[TFTP]]—Trivial File Transfer Protocol
 * [[Texas Instruments|TI]]—Texas Instruments
 * [[Three-letter acronym|TLA]]—Three-Letter Acronym
 * [[Top-level domain|TLD]]—Top-Level Domain
 * [[Thread-local storage|TLS]]—Thread-Local Storage
 * [[Transport Layer Security|TLS]]—Transport Layer Security
-* [[Filesystem Hierarchy Standard#Directory structure|tmp]]—temporary
+* [[Type-length-value|TLV]]—Type-length-value
+* [[/var/run|tmp]]—temporary
 * [[Terminal node controller|TNC]]—Terminal Node Controller
 * [[TNC connector|TNC]]—Threaded Neill-Concelman connector
 * [[Transaction Processing Facility|TPF]]—Transaction Processing Facility
+* [[Trusted Platform Module|TPM]]—Trusted Platform Module
 * [[TRON command|TROFF]]—Trace Off
 * [[TRON command|TRON]]—Trace On
 * [[TRON Project|TRON]]—The Real-time Operating system Nucleus
-* [[TRS-DOS]]—Tandy Radio Shack - Disk Operating System
+* [[TRSDOS]]—Tandy Radio Shack - Disk Operating System
 * [[Time Sharing Option|TSO]]—Time Sharing Option
 * [[Travelling salesman problem|TSP]]—Traveling Salesman Problem
 * [[Terminate and Stay Resident|TSR]]—Terminate and Stay Resident
@@ -1263,13 +1401,13 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Speech synthesis|TTS]]—Text-to-Speech
 * [[Computer terminal|TTY]]—Teletype
 * [[Tucows|TUCOWS]]—The Ultimate Collection of Winsock Software
-* TUG—TeX Users Group
+* [[TeX Users Group#Community|TUG]]—TeX Users Group
 * [[TWAIN]]—Technology Without An Interesting Name
 {{div col end}}
 
 == U ==
-{{div col|3}}
-* [[Web_Accessibility_Initiative#User_Agent_Accessibility_Guidelines_.28UAAG.29|UAAG]]—User Agent Accessibility Guidelines
+{{div col|colwidth=22em}}
+* [[UAAG]]—User Agent Accessibility Guidelines
 * [[User Account Control|UAC]]—User Account Control
 * [[Universal asynchronous receiver/transmitter|UART]]—Universal Asynchronous Receiver/Transmitter
 * [[User Acceptance Testing|UAT]]—User Acceptance Testing
@@ -1287,7 +1425,9 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Unified Modeling Language|UML]]—Unified Modeling Language
 * [[User-mode Linux|UML]]—User-Mode Linux
 * [[Ultra-Mobile PC|UMPC]]—Ultra-Mobile Personal Computer
+* [[Universal Mobile Telecommunications System |UMTS]]—Universal Mobile Telecommunications System 
 * [[Universal Naming Convention|UNC]]—Universal Naming Convention
+* [[UNIVAC]]—Universal Automatic Computer (By MKS)
 * [[Uninterruptible power supply|UPS]]—Uninterruptible Power Supply
 * [[Uniform Resource Identifier|URI]]—Uniform Resource Identifier
 * [[Uniform Resource Locator|URL]]—Uniform Resource Locator
@@ -1298,15 +1438,17 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Coordinated Universal Time|UTC]]—Coordinated Universal Time
 * [[Unicode|UTF]]—Unicode Transformation Format
 * [[Unshielded twisted pair|UTP]]—Unshielded Twisted Pair
+* [[UMTS Terrestrial Radio Access Network|UTRAN]]—Universal Terrestrial Radio Access Network
 * [[UUCP]]—Unix to Unix Copy
 * [[Universally Unique Identifier|UUID]]—Universally Unique Identifier
 * [[Universal User Name|UUN]]—Universal User Name
 * [[Universal Virtual Computer|UVC]]—Universal Virtual Computer
+* [[Universal Windows Platform|UWP]]—Universal Windows Platform
 * [[User experience design|UX]]—User Experience
 {{div col end}}
 
 == V ==
-{{div col|3}}
+{{div col|colwidth=22em}}
 * [[Filesystem Hierarchy Standard|var]]—variable
 * [[VAX]]—Virtual Address eXtension
 * [[DOS Protected Mode Interface|VCPI]]—Virtual Control Program Interface
@@ -1315,9 +1457,12 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Visual Basic|VB]]—Visual Basic
 * [[Visual Basic for Applications|VBA]]—Visual Basic for Applications
 * [[VBScript|VBS]]—Visual Basic Script
+* [[Desktop virtualization|VDI]]—Virtual Desktop Infrastructure
+* [[Virtual DOS machine|VDM]]— Virtual DOS machine
 * [[Very high bitrate digital subscriber line|VDSL]]—Very High Bitrate Digital Subscriber Line
 * [[VESA]]—Video Electronics Standards Association
 * [[File Allocation Table|VFAT]]—Virtual FAT
+* [[Virtual Hard Disk|VHD]] — Virtual Hard Disk
 * [[Virtual file system|VFS]]—Virtual File System
 * [[Logical volume management|VG]]—Volume Group
 * [[Video Graphics Array|VGA]]—Video Graphics Array
@@ -1330,6 +1475,7 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Very-large-scale integration|VLSI]]—Very-Large-Scale Integration
 * [[Virtual machine|VM]]—Virtual Machine
 * [[Virtual memory|VM]]—Virtual Memory
+* [[Hypervisor|VMM]]—Virtual Machine Monitor
 * [[VNC]]—Virtual Network Computing
 * [[Video on demand|VOD]]—Video On Demand
 * [[Voice over Internet Protocol|VoIP]]—Voice over Internet Protocol
@@ -1338,12 +1484,16 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[Virtual storage access method|VSAM]]—Virtual Storage Access Method
 * [[Very small aperture terminal|VSAT]]—Very Small Aperture Terminal
 * [[VT100|VT]]—Video Terminal?
+* [[Virtual Tape Library|VTL]]— Virtual Tape Library
 * [[Virtual telecommunications access method|VTAM]]—Virtual Telecommunications Access Method
+* [[Video Random Access Memory|VRAM]]—Video Random Access Memory
+
 {{div col end}}
 
 == W ==
-{{div col|3}}
+{{div col|colwidth=22em}}
 * [[World Wide Web Consortium|W3C]]—World Wide Web Consortium
+* [[Apple Worldwide Developers Conference|WWDC]]—[[Apple Inc.|Apple]] World Wide Developer Conference
 * [[Wide area file services|WAFS]]—Wide Area File Services
 * [[Web Accessibility Initiative|WAI]]—Web Accessibility Initiative
 * [[Wide area information server|WAIS]]—Wide Area Information Server
@@ -1358,19 +1508,24 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[WebDAV]]—WWW Distributed Authoring and Versioning
 * [[Wired Equivalent Privacy|WEP]]—Wired Equivalent Privacy
 * [[Interrupt|WFI]]—Wait For Interrupt
-* [[Wi-Fi]]—Wireless Fidelity
 * [[WiMAX]]—Worldwide Interoperability for Microwave Access
 * [[WinFS]]—Windows Future Storage
+* [[Windows RunTime|WinRT]]—Windows RunTime
 * [[Windows Internet Name Service|WINS]]—Windows Internet Name Service
 * [[Wireless LAN|WLAN]]—Wireless Local Area Network
 * [[Windows Media Audio|WMA]]—Windows Media Audio
+* [[Windows Management Instrumentation|WMI]]— Windows Management Instrumentation 
 * [[Windows Media Video|WMV]]—Windows Media Video
+* [[Windows Push Notification Service|WNS]]—Windows Push Notification Service
 * [[Wake-on-LAN|WOL]]—Wake-on-LAN
-* [[Wake-on-ring|WOM]]—Wake-on-Modem
 * [[Wake-on-ring|WOR]]—Wake-on-Ring
+* [[Write once, run anywhere|WORA]]—Write once, run anywhere
+* [[Write once, run anywhere|WORE]]—Write once, run everywhere
 * [[Wi-Fi Protected Access|WPA]]—Wi-Fi Protected Access
+* [[Web Proxy Autodiscovery Protocol|WPAD]]—Web Proxy Autodiscovery Protocol
 * [[Personal area network|WPAN]]—Wireless Personal Area Network
 * [[Windows Presentation Foundation|WPF]]—Windows Presentation Foundation
+* [[WS-Discovery|WS-D]]—Web Services-Discovery
 * [[Web Services Description Language|WSDL]]—Web Services Description Language
 * [[Web Services Flow Language|WSFL]]—Web Services Flow Language
 * [[Wireless USB|WUSB]]—Wireless Universal Serial Bus
@@ -1383,7 +1538,7 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 {{div col end}}
 
 == X ==
-{{div col|3}}
+{{div col|colwidth=22em}}
 * [[XML Accessibility Guidelines|XAG]]—XML Accessibility Guidelines
 * [[Extensible Application Markup Language|XAML]]—eXtensible Application Markup Language
 * [[X Display Manager (implementation)|XDM]]—X Window Display Manager
@@ -1401,6 +1556,7 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[XPCOM]]—Cross Platform Component Object Model
 * [[XPInstall|XPI]]—XPInstall
 * [[Interface description language|XPIDL]]—Cross-Platform IDL
+* [[Open XML Paper Specification|XPS]]— XML Paper Specification
 * [[XML Schema (W3C)|XSD]]—XML Schema Definition
 * [[Extensible Stylesheet Language|XSL]]—eXtensible Stylesheet Language
 * [[XSL Formatting Objects|XSL-FO]]—eXtensible Stylesheet Language Formatting Objects
@@ -1409,11 +1565,11 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[eXtensible Tag Framework|XTF]]—eXtensible Tag Framework
 * [[eXtended Triton Format|XTF]]—eXtended Triton Format
 * [[XUL]]—XML User Interface Language
-* [[XVGA]]-Extended Video Graphics Adapter
+* [[XVGA]]—Extended Video Graphics Adapter
 {{div col end}}
 
 == Y ==
-{{div col|3}}
+{{div col|colwidth=22em}}
 * [[Year 2000 problem|Y2K]]—Year Two Thousand
 * [[YAAF]]—Yet Another Application Framework
 * [[Yacc|YACC]]—Yet Another Compiler Compiler
@@ -1421,301 +1577,202 @@ This is a '''list of computing and IT acronyms and abbreviations'''.
 * [[YaST]]—Yet another Setup Tool
 {{div col end}}
 
-
+== Z ==
+{{div col|colwidth=22em}}
+* [[Zone bit recording|ZCAV]]—Zone Constant Angular Velocity
+* [[Zero code suppression|ZCS]]—Zero Code Suppression
+* [[Zero insertion force|ZIF]]—Zero Insertion Force
+* [[Zero insertion force|ZIFS]]—Zero Insertion Force Socket
+* [[Zip (file format)|ZIP]]—ZIP file archive
+* [[Zero instruction set computer|ZISC]]—Zero Instruction Set Computer
+* [[Zero One Infinity|ZOI]]—Zero One Infinity
+* [[Zope|ZOPE]]—Z Object Publishing Environment
+* [[Zone Multicast Address|ZMA]]—Zone Multicast Address
+* [[ZPL (programming language)|ZPL]]—Z-level Programming Language
 {{div col end}}
 
 ==See also==
 * [[Acronym and initialism]]
 * [[Internet slang]]
 * [[List of file formats]]
+* [[List of information technology acronyms]]
 * [[Professional certification]]
 
 ==References==
 *{{cite web |url=http://www.all-acronyms.com/?tg=computing&amp;o=a |title=Computing Acronyms and Abbreviations |publisher= All Acronyms |accessdate=2008-07-12 }}
 
 ==External links==
-&lt;!--===========================({{NoMoreLinks}})===============================-->
-&lt;!--| DO NOT ADD MORE LINKS TO THIS ARTICLE. WIKIPEDIA IS NOT A COLLECTION OF |-->
-&lt;!--| LINKS. If you think that your link might be useful, do not add it here, |-->
-&lt;!--| but put it on this article's discussion page first or submit your link |-->
-&lt;!--| to the appropriate category at the Open Directory Project (www.dmoz.org)|-->
-&lt;!--| and link back to that category using the {{dmoz}} template. |-->
-&lt;!--| |-->
-&lt;!--| Links that have not been verified WILL BE DELETED. |-->
-&lt;!--| See [[Wikipedia:External links]] and [[Wikipedia:Spam]] for details |-->
-&lt;!--===========================({{NoMoreLinks}})===============================-->
+{{Prone to spam|date=October 2013}}
+{{Z148}}&lt;!--     {{No more links}}
+
+       Please be cautious adding more external links.
+
+Wikipedia is not a collection of links and should not be used for advertising.
+
+     Excessive or inappropriate links will be removed.
+
+ See [[Wikipedia:External links]] and [[Wikipedia:Spam]] for details.
+
+If there are already suitable links, propose additions or replacements on
+the article's talk page, or submit your link to the relevant category at 
+the Open Directory Project (dmoz.org) and link there using {{Dmoz}}.
+
+-->
 * [http://www.roesler-ac.de/wolfram/acro/all.htm The UNIX Acronym List]
 
 {{DEFAULTSORT:Computing And It Abbreviations}}
 [[Category:Lists of abbreviations]]
 [[Category:Lists of computer terms]]
-
-[[bg:Списък на компютърни съкращения]]
-[[de:Liste von Abkürzungen (Computer)]]
-[[fr:Abréviations en informatique]]
-[[hr:Dodatak:Popis kratica u računarstvu]]
-[[nl:Lijst van afkortingen in de informatica]]
-[[ja:コンピュータ略語一覧]]
-[[pl:Skróty używane w informatyce]]
-[[tr:Bilgisayar terimlerinin kısaltmalarının listesi]]
-</textarea><input type="hidden" name="articleFeedbackv5_click_tracking" /><input type="hidden" name="articleFeedbackv5_bucket_id" /><input type="hidden" name="articleFeedbackv5_cta_id" /><input type="hidden" name="articleFeedbackv5_location" /><input type="hidden" name="articleFeedbackv5_ct_token" /><div id="editpage-copywarn">
-<p>Content that violates any copyrights will be deleted. Encyclopedic content must be <b><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifiable</a></b>.
-</p>
-<p>By clicking the "Save Page" button, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use" class="extiw" title="wmf:Terms of Use">Terms of Use</a>, and you irrevocably agree to release your contribution under the <a href="/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">CC-BY-SA 3.0 License</a> and the <a href="/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License" title="Wikipedia:Text of the GNU Free Documentation License">GFDL</a>.  You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.</p>
-</div>
-<div class='editOptions'>
-<span class="mw-summary" id="wpSummaryLabel"><label for="wpSummary"><span style="text-align: left;"><a href="/wiki/Help:Edit_summary" title="Help:Edit summary">Edit summary</a> <small>(Briefly describe the changes you have made)</small></span></label></span> <input class="mw-summary" id="wpSummary" maxlength="200" tabindex="1" size="60" title="Enter a short summary [b]" accesskey="b" type="text" value="" name="wpSummary" /><div class='editCheckboxes'>
+[[Category:Computer jargon]]
+</textarea><div class='editOptions'>
+<div id='wpSummaryLabel' class='mw-summary oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='wpSummary' class='oo-ui-labelElement-label'><span style="text-align: left;"><a href="/wiki/Help:Edit_summary" title="Help:Edit summary">Edit summary</a> <small>(Briefly describe your changes)</small></span></label></span><div class='oo-ui-fieldLayout-field'><div id='wpSummaryWidget' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","maxLength":500,"name":"wpSummary","inputId":"wpSummary","tabIndex":1,"title":"Enter a short summary","accessKey":"b"}'><input type='text' tabindex='1' aria-disabled='false' title='Enter a short summary [b]' accesskey='b' name='wpSummary' value='' id='wpSummary' maxlength='500' spellcheck='true' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon'></span><span class='oo-ui-indicatorElement-indicator'></span></div></div></div></div><div class='editCheckboxes'><div class='oo-ui-layout oo-ui-horizontalLayout'></div></div>
+<div id="editpage-copywarn">
+<p>By publishing changes, you agree to the <a href="https://wikimediafoundation.org/wiki/Terms_of_Use" class="extiw" title="wmf:Terms of Use">Terms of Use</a>, and you irrevocably agree to release your contribution under the <a href="/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">CC BY-SA 3.0 License</a> and the <a href="/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License" title="Wikipedia:Text of the GNU Free Documentation License">GFDL</a>. You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.</p>
 </div>
 <div class='editButtons'>
-<input id="wpSave" name="wpSave" type="submit" tabindex="3" value="Save page" accesskey="s" title="Save your changes [s]" />
-<input id="wpPreview" name="wpPreview" type="submit" tabindex="4" value="Show preview" accesskey="p" title="Preview your changes; please use this before saving. [p]" />
-
-<input id="wpDiff" name="wpDiff" type="submit" tabindex="5" value="Show changes" accesskey="v" title="Show which changes you made to the text [v]" />
-	<span class='editHelp'><a href="/wiki/List_of_computing_and_IT_abbreviations" title="List of computing and IT abbreviations" id="mw-editform-cancel">Cancel</a> | <a target="helpwindow" href="/wiki/Wikipedia:Cheatsheet">Editing help</a> (opens in new window)</span>
+<span id='wpSaveWidget' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-flaggedElement-progressive oo-ui-flaggedElement-primary oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","useInputTag":true,"type":"submit","name":"wpSave","inputId":"wpSave","flags":["progressive","primary"],"tabIndex":3,"title":"Publish your changes","accessKey":"s","label":"Publish changes"}'><input type='submit' tabindex='3' aria-disabled='false' title='Publish your changes [s]' accesskey='s' name='wpSave' id='wpSave' value='Publish changes' class='oo-ui-inputWidget-input oo-ui-buttonElement-button' /></span>
+<span id='wpPreviewWidget' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","useInputTag":true,"type":"submit","name":"wpPreview","inputId":"wpPreview","tabIndex":4,"title":"Preview your changes. Please use this before saving.","accessKey":"p","label":"Show preview"}'><input type='submit' tabindex='4' aria-disabled='false' title='Preview your changes. Please use this before saving. [p]' accesskey='p' name='wpPreview' id='wpPreview' value='Show preview' class='oo-ui-inputWidget-input oo-ui-buttonElement-button' /></span>
+<span id='wpDiffWidget' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","useInputTag":true,"type":"submit","name":"wpDiff","inputId":"wpDiff","tabIndex":5,"title":"Show the changes you made to the text","accessKey":"v","label":"Show changes"}'><input type='submit' tabindex='5' aria-disabled='false' title='Show the changes you made to the text [v]' accesskey='v' name='wpDiff' id='wpDiff' value='Show changes' class='oo-ui-inputWidget-input oo-ui-buttonElement-button' /></span>
+	<span class='cancelLink'><span id='mw-editform-cancel' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-destructive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"\/wiki\/List_of_computing_and_IT_abbreviations","framed":false,"label":{"html":"Cancel"},"flags":["destructive"]}'><a role='button' tabindex='0' aria-disabled='false' href='/wiki/List_of_computing_and_IT_abbreviations' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-image-destructive'></span><span class='oo-ui-labelElement-label'>Cancel</span><span class='oo-ui-indicatorElement-indicator oo-ui-image-destructive'></span></a></span></span>
+	<span class='editHelp'><a target="helpwindow" href="/wiki/Help:Cheatsheet">Editing help</a> (opens in new window)</span>
 </div><!-- editButtons -->
+<span id="templatesandbox-editform"><input id="wpTemplateSandboxTemplate" type="hidden" value="List of computing and IT abbreviations" name="wpTemplateSandboxTemplate"/><input id="wpTemplateSandboxPage" type="hidden" name="wpTemplateSandboxPage"/></span>
 </div><!-- editOptions -->
 
-<input type="hidden" value="+\" name="wpEditToken" />
-<div class="mw-tos-summary"><p><small id="mw-wikimedia-editpage-tos-summary">If you do not want your writing to be edited, used, and redistributed at will, then do not submit it here. All text that you did not write yourself, except brief excerpts, must be available under terms consistent with Wikipedia's <b><a href="//wikimediafoundation.org/wiki/Terms_of_Use" class="extiw" title="foundation:Terms of Use">Terms of Use</a></b> before you submit it.</small>
-</p></div><div class="mw-editTools"><div id="editpage-specialchars" style="margin-top: 15px; border: 1px solid #aaaaaa; padding: 2px;" class="edittools-text edittools-version-045">
-<p><b>Copy and paste:</b> – — ° ″ ′ ≈ ≠ ≤ ≥ ± − × ÷ ← → · §   <b>Sign your posts on talk pages:</b> ~~~~
+<input type="hidden" value="+\" name="wpEditToken"/>
+<div class="mw-editTools"><div id="editpage-specialchars" style="margin-top: 15px; border: 1px solid #aaaaaa; padding: 2px;" class="edittools-text">
+<p><b>Copy and paste:</b> – — ° ′ ″ ≈ ≠ ≤ ≥ ± − × ÷ ← → · §    <b>Cite your sources:</b> &lt;ref&gt;&lt;/ref&gt; 
 </p>
 <hr />
 <p><small>
-{{}}   {{{}}}   |   []   [[]]   [[Category:]]   #REDIRECT [[]]   &amp;nbsp;   &lt;s&gt;&lt;/s&gt;   &lt;sup&gt;&lt;/sup&gt;   &lt;sub&gt;&lt;/sub&gt;   &lt;code&gt;&lt;/code&gt;   &lt;pre&gt;&lt;/pre&gt;   &lt;blockquote&gt;&lt;/blockquote&gt;   &lt;ref&gt;&lt;/ref&gt;   
-{{Reflist}}   &lt;references/&gt;   &lt;includeonly&gt;&lt;/includeonly&gt;   &lt;noinclude&gt;&lt;/noinclude&gt;   {{DEFAULTSORT:}}   &lt;nowiki&gt;&lt;/nowiki&gt;   &lt;!-- --&gt;   &lt;span class="plainlinks"&gt;&lt;/span&gt;
+{{}}   {{{}}}   |   []   [[]]   [[Category:]]   #REDIRECT [[]]   &amp;nbsp;   &lt;s&gt;&lt;/s&gt;   &lt;sup&gt;&lt;/sup&gt;   &lt;sub&gt;&lt;/sub&gt;   &lt;code&gt;&lt;/code&gt;   &lt;pre&gt;&lt;/pre&gt;   &lt;blockquote&gt;&lt;/blockquote&gt;   &lt;ref&gt;&lt;/ref&gt; &lt;ref name="" /&gt;   {{Reflist}}   &lt;references /&gt;   &lt;includeonly&gt;&lt;/includeonly&gt;   &lt;noinclude&gt;&lt;/noinclude&gt;   {{DEFAULTSORT:}}   &lt;nowiki&gt;&lt;/nowiki&gt;   &lt;!-- --&gt;   &lt;span class="plainlinks"&gt;&lt;/span&gt; 
 </small>
 </p>
 <hr />
 <p><small>
-<b>Symbols:</b> ~ | ¡ ¿ † ‡ ↔ ↑ ↓ • ¶   # ½ ⅓ ⅔ ¼ ¾ ⅛ ⅜ ⅝ ⅞ ∞   ‘ ’ “ ” «»   ¤ ₳ ฿ ₵ ¢ ₡ ₢ $ ₫ ₯ € ₠ ₣ ƒ ₴ ₭ ₤ ℳ ₥ ₦ № ₧ ₰ £ ៛ ₨ ₪ ৳ ₮ ₩ ¥   ♠ ♣ ♥ ♦   m² m³   ♭ ♯ ♮   © ® ™<br/>
-<b>Latin:</b> A a Á á À à Â â Ä ä Ǎ ǎ Ă ă Ā ā Ã ã Å å Ą ą Æ æ Ǣ ǣ   B b   C c Ć ć Ċ ċ Ĉ ĉ Č č Ç ç   D d Ď ď Đ đ Ḍ ḍ Ð ð   E e É é È è Ė ė Ê ê Ë ë Ě ě Ĕ ĕ Ē ē Ẽ ẽ Ę ę Ə ə   F f   G g Ġ ġ Ĝ ĝ Ğ ğ Ģ ģ   H h Ĥ ĥ Ħ ħ Ḥ ḥ   I i İ ı Í í Ì ì Î î Ï ï Ǐ ǐ Ĭ ĭ Ī ī Ĩ ĩ Į į   J j Ĵ ĵ   K k Ķ ķ   L l Ĺ ĺ Ŀ ŀ Ľ ľ Ļ ļ Ł ł Ḷ ḷ Ḹ ḹ   M m Ṃ ṃ   N n Ń ń Ň ň Ñ ñ Ņ ņ Ṇ ṇ   O o Ó ó Ò ò Ô ô Ö ö Ǒ ǒ Ŏ ŏ Ō ō Õ õ Ǫ ǫ Ő ő Ø ø Œ œ   P p   Q q   R r Ŕ ŕ Ř ř Ŗ ŗ Ṛ ṛ Ṝ ṝ   S s Ś ś Ŝ ŝ Š š Ş ş Ș ș Ṣ ṣ ß   T t Ť ť Ţ ţ Ț ț Ṭ ṭ Þ þ   U u Ú ú Ù ù Û û Ü ü Ǔ ǔ Ŭ ŭ Ū ū Ũ ũ Ů ů Ų ų Ű ű Ǘ ǘ Ǜ ǜ Ǚ ǚ Ǖ ǖ   V v   W w Ŵ ŵ   X x   Y y Ý ý Ŷ ŷ Ÿ ÿ Ỹ ỹ Ȳ ȳ   Z z Ź ź Ż ż Ž ž   ß Ð ð Þ þ Ə ə   {{Unicode|}} <br/>
+<b>Symbols:</b> ~ | ¡ ¿ † ‡ ↔ ↑ ↓ • ¶   # ∞   ‘ ’ “ ” ‹› «»   ¤ ₳ ฿ ₵ ¢ ₡ ₢ $ ₫ ₯ € ₠ ₣ ƒ ₴ ₭ ₤ ℳ ₥ ₦ № ₧ ₰ £ ៛ ₨ ₪ ৳ ₮ ₩ ¥   ♠ ♣ ♥ ♦   ♭ ♯ ♮   © ® ™<br/>
+<b>Latin:</b> A a Á á À à Â â Ä ä Ǎ ǎ Ă ă Ā ā Ã ã Å å Ą ą Æ æ Ǣ ǣ   B b   C c Ć ć Ċ ċ Ĉ ĉ Č č Ç ç   D d Ď ď Đ đ Ḍ ḍ Ð ð   E e É é È è Ė ė Ê ê Ë ë Ě ě Ĕ ĕ Ē ē Ẽ ẽ Ę ę Ẹ ẹ Ɛ ɛ Ǝ ǝ Ə ə   F f   G g Ġ ġ Ĝ ĝ Ğ ğ Ģ ģ   H h Ĥ ĥ Ħ ħ Ḥ ḥ   I i İ ı Í í Ì ì Î î Ï ï Ǐ ǐ Ĭ ĭ Ī ī Ĩ ĩ Į į Ị ị   J j Ĵ ĵ   K k Ķ ķ   L l Ĺ ĺ Ŀ ŀ Ľ ľ Ļ ļ Ł ł Ḷ ḷ Ḹ ḹ   M m Ṃ ṃ   N n Ń ń Ň ň Ñ ñ Ņ ņ Ṇ ṇ Ŋ ŋ   O o Ó ó Ò ò Ô ô Ö ö Ǒ ǒ Ŏ ŏ Ō ō Õ õ Ǫ ǫ Ọ ọ Ő ő Ø ø Œ œ   Ɔ ɔ   P p   Q q   R r Ŕ ŕ Ř ř Ŗ ŗ Ṛ ṛ Ṝ ṝ   S s Ś ś Ŝ ŝ Š š Ş ş Ș ș Ṣ ṣ ß   T t Ť ť Ţ ţ Ț ț Ṭ ṭ Þ þ   U u Ú ú Ù ù Û û Ü ü Ǔ ǔ Ŭ ŭ Ū ū Ũ ũ Ů ů Ų ų Ụ ụ Ű ű Ǘ ǘ Ǜ ǜ Ǚ ǚ Ǖ ǖ   V v   W w Ŵ ŵ   X x   Y y Ý ý Ŷ ŷ Ÿ ÿ Ỹ ỹ Ȳ ȳ   Z z Ź ź Ż ż Ž ž   ß Ð ð Þ þ Ŋ ŋ Ə ə <br/>
 <b>Greek:</b> Ά ά Έ έ Ή ή Ί ί Ό ό Ύ ύ Ώ ώ   Α α Β β Γ γ Δ δ   Ε ε Ζ ζ Η η Θ θ   Ι ι Κ κ Λ λ Μ μ   Ν ν Ξ ξ Ο ο Π π   Ρ ρ Σ σ ς Τ τ Υ υ   Φ φ Χ χ Ψ ψ Ω ω   {{Polytonic|}} <br/>
 <b>Cyrillic:</b> А а Б б В в Г г   Ґ ґ Ѓ ѓ Д д Ђ ђ   Е е Ё ё Є є Ж ж   З з Ѕ ѕ И и І і   Ї ї Й й Ј ј К к   Ќ ќ Л л Љ љ М м   Н н Њ њ О о П п   Р р С с Т т Ћ ћ   У у Ў ў Ф ф Х х   Ц ц Ч ч Џ џ Ш ш   Щ щ Ъ ъ Ы ы Ь ь   Э э Ю ю Я я   ́ <br/>
-<b>IPA:</b> t̪ d̪ ʈ ɖ ɟ ɡ ɢ ʡ ʔ   ɸ ʃ ʒ ɕ ʑ ʂ ʐ ʝ ɣ ʁ ʕ ʜ ʢ ɦ   ɱ ɳ ɲ ŋ ɴ   ʋ ɹ ɻ ɰ   ʙ ʀ ɾ ɽ   ɫ ɬ ɮ ɺ ɭ ʎ ʟ   ɥ ʍ ɧ   ɓ ɗ ʄ ɠ ʛ   ʘ ǀ ǃ ǂ ǁ   ɨ ʉ ɯ   ɪ ʏ ʊ   ɘ ɵ ɤ   ə ɚ   ɛ ɜ ɝ ɞ ʌ ɔ   ɐ ɶ ɑ ɒ   ʰ ʷ ʲ ˠ ˤ ⁿ ˡ   ˈ ˌ ː ˑ ̪   {{IPA|}}
+<b>IPA:</b> t̪ d̪ ʈ ɖ ɟ ɡ ɢ ʡ ʔ   ɸ β θ ð ʃ ʒ ɕ ʑ ʂ ʐ ç ʝ ɣ χ ʁ ħ ʕ ʜ ʢ ɦ   ɱ ɳ ɲ ŋ ɴ   ʋ ɹ ɻ ɰ   ʙ ⱱ ʀ ɾ ɽ   ɫ ɬ ɮ ɺ ɭ ʎ ʟ   ɥ ʍ ɧ   ʼ   ɓ ɗ ʄ ɠ ʛ   ʘ ǀ ǃ ǂ ǁ   ɨ ʉ ɯ   ɪ ʏ ʊ   ø ɘ ɵ ɤ   ə ɚ   ɛ œ ɜ ɝ ɞ ʌ ɔ   æ   ɐ ɶ ɑ ɒ   ʰ ʱ ʷ ʲ ˠ ˤ ⁿ ˡ   ˈ ˌ ː ˑ ̪   {{IPA|}}
 </small>
 </p>
 </div>
-<div style="margin-top: 1em;" id="editpage-copywarn2">
-<p><strong style="font-size: 130%;">Please note:</strong>
-</p>
-<ul><li> When you click Save page, your changes will immediately become visible to everyone. If you wish to run a test, please edit the <a href="/wiki/Wikipedia:Sandbox" title="Wikipedia:Sandbox">Sandbox</a> instead.
-</li><li>Please post only <a href="/wiki/Wikipedia:Wikipedia_is_an_encyclopedia" title="Wikipedia:Wikipedia is an encyclopedia">encyclopedic</a> information that can be <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verified</a> by external sources. Please maintain a <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral</a>, unbiased point of view.
-</li><li> Please <a href="/wiki/Wikipedia:Copy-paste" title="Wikipedia:Copy-paste">do not copy and paste</a> from copyrighted websites – only <a href="/wiki/Wikipedia:Public_domain" title="Wikipedia:Public domain">public domain</a> resources can be copied without permission.
-</li></ul>
-</div>
-</div>
-<div class='templatesUsed'>
-<div class="mw-templatesUsedExplanation"><p><span id="templatesused">Pages <a href="/wiki/Wikipedia:Transclusion" title="Wikipedia:Transclusion">transcluded</a> onto the current version of this page:</span>
+</div><div class="wikibase-entity-usage"><div class="wikibase-entityusage-explanation"><p>Wikidata entities used in this page
+</p></div>
+<ul><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1863082">list of computing and IT abbreviations</a>: Sitelink</li></ul></div>
+<div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p><span id="templatesused">Pages transcluded onto the current version of this page<span class="posteditwindowhelplinks"> (<a href="/wiki/Wikipedia:Transclusion" title="Wikipedia:Transclusion">help</a>)</span>&#160;:</span>
 </p></div><ul>
-<li><a href="/wiki/Template:Alphanumeric_TOC" title="Template:Alphanumeric TOC">Template:Alphanumeric TOC</a> (<a href="/w/index.php?title=Template:Alphanumeric_TOC&amp;action=edit" title="Template:Alphanumeric TOC">view source</a>) (protected)</li><li><a href="/wiki/Template:AlphanumericTOC" class="mw-redirect" title="Template:AlphanumericTOC">Template:AlphanumericTOC</a> (<a href="/w/index.php?title=Template:AlphanumericTOC&amp;action=edit" class="mw-redirect" title="Template:AlphanumericTOC">view source</a>) (protected)</li><li><a href="/wiki/Template:Ambox" title="Template:Ambox">Template:Ambox</a> (<a href="/w/index.php?title=Template:Ambox&amp;action=edit" title="Template:Ambox">view source</a>) (protected)</li><li><a href="/wiki/Template:Ambox/category" title="Template:Ambox/category">Template:Ambox/category</a> (<a href="/w/index.php?title=Template:Ambox/category&amp;action=edit" title="Template:Ambox/category">view source</a>) (protected)</li><li><a href="/wiki/Template:Ambox/core" title="Template:Ambox/core">Template:Ambox/core</a> (<a href="/w/index.php?title=Template:Ambox/core&amp;action=edit" title="Template:Ambox/core">view source</a>) (protected)</li><li><a href="/wiki/Template:Category_handler" title="Template:Category handler">Template:Category handler</a> (<a href="/w/index.php?title=Template:Category_handler&amp;action=edit" title="Template:Category handler">view source</a>) (protected)</li><li><a href="/wiki/Template:Category_handler/blacklist" title="Template:Category handler/blacklist">Template:Category handler/blacklist</a> (<a href="/w/index.php?title=Template:Category_handler/blacklist&amp;action=edit" title="Template:Category handler/blacklist">view source</a>) (protected)</li><li><a href="/wiki/Template:Category_handler/numbered" title="Template:Category handler/numbered">Template:Category handler/numbered</a> (<a href="/w/index.php?title=Template:Category_handler/numbered&amp;action=edit" title="Template:Category handler/numbered">view source</a>) (protected)</li><li><a href="/wiki/Template:Citation/core" title="Template:Citation/core">Template:Citation/core</a> (<a href="/w/index.php?title=Template:Citation/core&amp;action=edit" title="Template:Citation/core">view source</a>) (protected)</li><li><a href="/wiki/Template:Citation/make_link" title="Template:Citation/make link">Template:Citation/make link</a> (<a href="/w/index.php?title=Template:Citation/make_link&amp;action=edit" title="Template:Citation/make link">view source</a>) (protected)</li><li><a href="/wiki/Template:Cite_web" title="Template:Cite web">Template:Cite web</a> (<a href="/w/index.php?title=Template:Cite_web&amp;action=edit" title="Template:Cite web">view source</a>) (protected)</li><li><a href="/wiki/Template:Column-count" title="Template:Column-count">Template:Column-count</a> (<a href="/w/index.php?title=Template:Column-count&amp;action=edit" title="Template:Column-count">view source</a>) (protected)</li><li><a href="/wiki/Template:DMCA" title="Template:DMCA">Template:DMCA</a> (<a href="/w/index.php?title=Template:DMCA&amp;action=edit" title="Template:DMCA">view source</a>) (protected)</li><li><a href="/wiki/Template:Dated_maintenance_category" title="Template:Dated maintenance category">Template:Dated maintenance category</a> (<a href="/w/index.php?title=Template:Dated_maintenance_category&amp;action=edit" title="Template:Dated maintenance category">view source</a>) (protected)</li><li><a href="/wiki/Template:Div_col" title="Template:Div col">Template:Div col</a> (<a href="/w/index.php?title=Template:Div_col&amp;action=edit" title="Template:Div col">view source</a>) (protected)</li><li><a href="/wiki/Template:Div_col_end" title="Template:Div col end">Template:Div col end</a> (<a href="/w/index.php?title=Template:Div_col_end&amp;action=edit" title="Template:Div col end">view source</a>) (protected)</li><li><a href="/wiki/Template:FULLROOTPAGENAME" title="Template:FULLROOTPAGENAME">Template:FULLROOTPAGENAME</a> (<a href="/w/index.php?title=Template:FULLROOTPAGENAME&amp;action=edit" title="Template:FULLROOTPAGENAME">view source</a>) (protected)</li><li><a href="/wiki/Template:If_pagename" title="Template:If pagename">Template:If pagename</a> (<a href="/w/index.php?title=Template:If_pagename&amp;action=edit" title="Template:If pagename">view source</a>) (protected)</li><li><a href="/wiki/Template:Mdash" title="Template:Mdash">Template:Mdash</a> (<a href="/w/index.php?title=Template:Mdash&amp;action=edit" title="Template:Mdash">view source</a>) (protected)</li><li><a href="/wiki/Template:Namespace_detect" title="Template:Namespace detect">Template:Namespace detect</a> (<a href="/w/index.php?title=Template:Namespace_detect&amp;action=edit" title="Template:Namespace detect">view source</a>) (protected)</li><li><a href="/wiki/Template:Ns_has_subpages" title="Template:Ns has subpages">Template:Ns has subpages</a> (<a href="/w/index.php?title=Template:Ns_has_subpages&amp;action=edit" title="Template:Ns has subpages">view source</a>) (protected)</li><li><a href="/wiki/Template:Split" title="Template:Split">Template:Split</a> (<a href="/w/index.php?title=Template:Split&amp;action=edit" title="Template:Split">view source</a>) (semi-protected)</li></ul>
-</div>
-<div class='hiddencats'>
-<div class="mw-hiddenCategoriesExplanation"><p>This page is a member of 2 hidden categories:
+<li><a href="/wiki/MediaWiki:Toc" title="MediaWiki:Toc">MediaWiki:Toc</a> (<a href="/w/index.php?title=MediaWiki:Toc&amp;action=edit" title="MediaWiki:Toc">view source</a>) </li><li><a href="/wiki/Template:Alphanumeric_TOC" title="Template:Alphanumeric TOC">Template:Alphanumeric TOC</a> (<a href="/w/index.php?title=Template:Alphanumeric_TOC&amp;action=edit" title="Template:Alphanumeric TOC">view source</a>) (template protected)</li><li><a href="/wiki/Template:Ambox/category" title="Template:Ambox/category">Template:Ambox/category</a> (<a href="/w/index.php?title=Template:Ambox/category&amp;action=edit" title="Template:Ambox/category">view source</a>) (template protected)</li><li><a href="/wiki/Template:Cite_web" title="Template:Cite web">Template:Cite web</a> (<a href="/w/index.php?title=Template:Cite_web&amp;action=edit" title="Template:Cite web">view source</a>) (protected)</li><li><a href="/wiki/Template:Column-width" title="Template:Column-width">Template:Column-width</a> (<a href="/w/index.php?title=Template:Column-width&amp;action=edit" title="Template:Column-width">view source</a>) (template protected)</li><li><a href="/wiki/Template:Div_col" title="Template:Div col">Template:Div col</a> (<a href="/w/index.php?title=Template:Div_col&amp;action=edit" title="Template:Div col">view source</a>) (template protected)</li><li><a href="/wiki/Template:Div_col_end" title="Template:Div col end">Template:Div col end</a> (<a href="/w/index.php?title=Template:Div_col_end&amp;action=edit" title="Template:Div col end">view source</a>) (template protected)</li><li><a href="/wiki/Template:Em_dash" title="Template:Em dash">Template:Em dash</a> (<a href="/w/index.php?title=Template:Em_dash&amp;action=edit" title="Template:Em dash">view source</a>) (template protected)</li><li><a href="/wiki/Template:Main_other" title="Template:Main other">Template:Main other</a> (<a href="/w/index.php?title=Template:Main_other&amp;action=edit" title="Template:Main other">view source</a>) (protected)</li><li><a href="/wiki/Template:Mdash" class="mw-redirect" title="Template:Mdash">Template:Mdash</a> (<a href="/w/index.php?title=Template:Mdash&amp;action=edit" class="mw-redirect" title="Template:Mdash">view source</a>) (template protected)</li><li><a href="/wiki/Template:Prone_to_spam" title="Template:Prone to spam">Template:Prone to spam</a> (<a href="/w/index.php?title=Template:Prone_to_spam&amp;action=edit" title="Template:Prone to spam">view source</a>) (semi-protected)</li><li><a href="/wiki/Template:TOC_bottom" title="Template:TOC bottom">Template:TOC bottom</a> (<a href="/w/index.php?title=Template:TOC_bottom&amp;action=edit" title="Template:TOC bottom">view source</a>) (template protected)</li><li><a href="/wiki/Template:TOC_top" title="Template:TOC top">Template:TOC top</a> (<a href="/w/index.php?title=Template:TOC_top&amp;action=edit" title="Template:TOC top">view source</a>) (template protected)</li><li><a href="/wiki/Template:Z148" title="Template:Z148">Template:Z148</a> (<a href="/w/index.php?title=Template:Z148&amp;action=edit" title="Template:Z148">view source</a>) (protected)</li><li><a href="/wiki/Module:Check_for_unknown_parameters" title="Module:Check for unknown parameters">Module:Check for unknown parameters</a> (<a href="/w/index.php?title=Module:Check_for_unknown_parameters&amp;action=edit" title="Module:Check for unknown parameters">view source</a>) (template protected)</li><li><a href="/wiki/Module:Citation/CS1" title="Module:Citation/CS1">Module:Citation/CS1</a> (<a href="/w/index.php?title=Module:Citation/CS1&amp;action=edit" title="Module:Citation/CS1">view source</a>) (protected)</li><li><a href="/wiki/Module:Citation/CS1/COinS" title="Module:Citation/CS1/COinS">Module:Citation/CS1/COinS</a> (<a href="/w/index.php?title=Module:Citation/CS1/COinS&amp;action=edit" title="Module:Citation/CS1/COinS">view source</a>) (protected)</li><li><a href="/wiki/Module:Citation/CS1/Configuration" title="Module:Citation/CS1/Configuration">Module:Citation/CS1/Configuration</a> (<a href="/w/index.php?title=Module:Citation/CS1/Configuration&amp;action=edit" title="Module:Citation/CS1/Configuration">view source</a>) (protected)</li><li><a href="/wiki/Module:Citation/CS1/Date_validation" title="Module:Citation/CS1/Date validation">Module:Citation/CS1/Date validation</a> (<a href="/w/index.php?title=Module:Citation/CS1/Date_validation&amp;action=edit" title="Module:Citation/CS1/Date validation">view source</a>) (template protected)</li><li><a href="/wiki/Module:Citation/CS1/Identifiers" title="Module:Citation/CS1/Identifiers">Module:Citation/CS1/Identifiers</a> (<a href="/w/index.php?title=Module:Citation/CS1/Identifiers&amp;action=edit" title="Module:Citation/CS1/Identifiers">view source</a>) (protected)</li><li><a href="/wiki/Module:Citation/CS1/Utilities" title="Module:Citation/CS1/Utilities">Module:Citation/CS1/Utilities</a> (<a href="/w/index.php?title=Module:Citation/CS1/Utilities&amp;action=edit" title="Module:Citation/CS1/Utilities">view source</a>) (protected)</li><li><a href="/wiki/Module:Citation/CS1/Whitelist" title="Module:Citation/CS1/Whitelist">Module:Citation/CS1/Whitelist</a> (<a href="/w/index.php?title=Module:Citation/CS1/Whitelist&amp;action=edit" title="Module:Citation/CS1/Whitelist">view source</a>) (protected)</li><li><a href="/wiki/Module:Unsubst" title="Module:Unsubst">Module:Unsubst</a> (<a href="/w/index.php?title=Module:Unsubst&amp;action=edit" title="Module:Unsubst">view source</a>) (template protected)</li></ul></div><div class="hiddencats"><div class="mw-hiddenCategoriesExplanation"><p>This page is a member of 1 hidden category<span class="posteditwindowhelplinks"> (<a href="/wiki/Help:Category#Hiding_categories" title="Help:Category">help</a>)</span>&#160;:
 </p></div><ul>
-<li><a href="/wiki/Category:All_articles_to_be_split" title="Category:All articles to be split">Category:All articles to be split</a></li>
-<li><a href="/wiki/Category:Articles_to_be_split_from_June_2010" title="Category:Articles to be split from June 2010">Category:Articles to be split from June 2010</a></li>
-</ul>
-</div></form>
-				<!-- /bodycontent -->
-								<!-- printfooter -->
-				<div class="printfooter">
-				Retrieved from "<a href="http://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations">http://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations</a>"				</div>
-				<!-- /printfooter -->
-												<!-- catlinks -->
-				<div id='catlinks' class='catlinks catlinks-allhidden'></div>				<!-- /catlinks -->
-												<div class="visualClear"></div>
-				<!-- debughtml -->
-								<!-- /debughtml -->
-			</div>
-			<!-- /bodyContent -->
+<li><a href="/wiki/Category:Articles_prone_to_spam_from_October_2013" title="Category:Articles prone to spam from October 2013">Category:Articles prone to spam from October 2013</a></li>
+</ul></div><div class="limitreport"></div><input id="mw-edit-mode" type="hidden" value="text" name="mode"/><input type="hidden" value="1" name="wpUltimateParam"/>
+</form>
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations">https://en.wikipedia.org/wiki/List_of_computing_and_IT_abbreviations</a>"					</div>
+				<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>				<div class="visualClear"></div>
+							</div>
 		</div>
-		<!-- /content -->
-		<!-- header -->
-		<div id="mw-head" class="noprint">
-			
-<!-- 0 -->
-<div id="p-personal" class="">
-	<h5>Personal tools</h5>
-	<ul>
-		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+computing+and+IT+abbreviations&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in / create account</a></li>
-	</ul>
-</div>
-
-<!-- /0 -->
-			<div id="left-navigation">
-				
-<!-- 0 -->
-<div id="p-namespaces" class="vectorTabs">
-	<h5>Namespaces</h5>
-	<ul>
-					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/List_of_computing_and_IT_abbreviations"  title="View the content page [c]" accesskey="c">Article</a></span></li>
-					<li  id="ca-talk"><span><a href="/wiki/Talk:List_of_computing_and_IT_abbreviations"  title="Discussion about the content page [t]" accesskey="t">Discussion</a></span></li>
-			</ul>
-</div>
-
-<!-- /0 -->
-
-<!-- 1 -->
-<div id="p-variants" class="vectorMenu emptyPortlet">
-		<h5><span>Variants</span><a href="#"></a></h5>
-	<div class="menu">
-		<ul>
-					</ul>
-	</div>
-</div>
-
-<!-- /1 -->
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+of+computing+and+IT+abbreviations&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+computing+and+IT+abbreviations&amp;returntoquery=action%3Dedit" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/List_of_computing_and_IT_abbreviations" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:List_of_computing_and_IT_abbreviations" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible"><span><a href="/wiki/List_of_computing_and_IT_abbreviations">Read</a></span></li><li id="ca-edit" class="collapsible selected"><span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit" title="Edit this page">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
 			</div>
-			<div id="right-navigation">
-				
-<!-- 0 -->
-<div id="p-views" class="vectorTabs">
-	<h5>Views</h5>
-	<ul>
-					<li id="ca-view"><span><a href="/wiki/List_of_computing_and_IT_abbreviations" >Read</a></span></li>
-					<li id="ca-edit" class="selected"><span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving.">Edit</a></span></li>
-					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
-			</ul>
-</div>
-
-<!-- /0 -->
-
-<!-- 1 -->
-<div id="p-cactions" class="vectorMenu emptyPortlet">
-	<h5><span>Actions</span><a href="#"></a></h5>
-	<div class="menu">
-		<ul>
-					</ul>
-	</div>
-</div>
-
-<!-- /1 -->
-
-<!-- 2 -->
-<div id="p-search">
-	<h5><label for="searchInput">Search</label></h5>
-	<form action="/w/index.php" id="searchform">
-		<input type='hidden' name="title" value="Special:Search"/>
-				<div id="simpleSearch">
-						<input type="text" name="search" value="" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/skins-1.18/vector/images/search-ltr.png?303-4" alt="Search" /></button>					</div>
-			</form>
-</div>
-
-<!-- /2 -->
-			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
 		</div>
-		<!-- /header -->
-		<!-- panel -->
-			<div id="mw-panel" class="noprint">
-				<!-- logo -->
-					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
-				<!-- /logo -->
-				
-<!-- navigation -->
-<div class="portal" id='p-navigation'>
-	<h5>Navigation</h5>
-	<div class="body">
-		<ul>
-			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
-			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
-			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
-			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
-			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
-			<li id="n-sitesupport"><a href="//wikimediafoundation.org/wiki/Special:Landingcheck?landing_page=WMFJA085&amp;language=en&amp;utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20101204SB002" title="Support us">Donate to Wikipedia</a></li>
-		</ul>
-	</div>
-</div>
-
-<!-- /navigation -->
-
-<!-- SEARCH -->
-
-<!-- /SEARCH -->
-
-<!-- interaction -->
-<div class="portal" id='p-interaction'>
-	<h5>Interaction</h5>
-	<div class="body">
-		<ul>
-			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
-			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
-			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
-			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
-			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
-		</ul>
-	</div>
-</div>
-
-<!-- /interaction -->
-
-<!-- TOOLBOX -->
-<div class="portal" id='p-tb'>
-	<h5>Toolbox</h5>
-	<div class="body">
-		<ul>
-			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_computing_and_IT_abbreviations" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
-			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_computing_and_IT_abbreviations" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
-			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
-			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
-		</ul>
-	</div>
-</div>
-
-<!-- /TOOLBOX -->
-
-<!-- LANGUAGES -->
-
-<!-- /LANGUAGES -->
-			</div>
-		<!-- /panel -->
-		<!-- footer -->
-		<div id="footer">
-							<ul id="footer-places">
-											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
-											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
-											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-mobileview"><a href='/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;useformat=mobile' class='noprint'>Mobile view</a></li>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_computing_and_IT_abbreviations" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_computing_and_IT_abbreviations" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1863082" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
 									</ul>
-										<ul id="footer-icons" class="noprint">
-					<li id="footer-copyrightico">
-						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
-					</li>
-					<li id="footer-poweredbyico">
-						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/skins-1.18/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
-					</li>
-				</ul>
-						<div style="clear:both"></div>
+							</div>
 		</div>
-		<!-- /footer -->
-		<!-- fixalpha -->
-		<script type="text/javascript"> if ( window.isMSIE55 ) fixalpha(); </script>
-		<!-- /fixalpha -->
-		<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
-<script type="text/javascript">if ( window.mediaWiki ) {
-	mw.loader.load(["mediawiki.action.edit", "ext.wikiEditor.toolbar", "ext.wikiEditor.dialogs", "ext.wikiEditor.toolbar.hideSig", "mediawiki.user", "mediawiki.util", "mediawiki.page.ready", "mediawiki.legacy.wikibits", "mediawiki.legacy.ajax", "mediawiki.legacy.mwsuggest", "ext.gadget.wmfFR2011Style", "ext.vector.collapsibleNav", "ext.vector.collapsibleTabs", "ext.vector.editWarning", "ext.vector.simpleSearch", "ext.UserBuckets", "ext.articleFeedback.startup", "ext.articleFeedbackv5.startup"]);
-}
-</script>
-<script type="text/javascript">if ( window.mediaWiki ) {mw.toolbar.addButton("//bits.wikimedia.org/skins-1.18/common/images/button_bold.png","Bold text","\'\'\'","\'\'\'","Bold text","mw-editbutton-bold");
-mw.toolbar.addButton("//bits.wikimedia.org/skins-1.18/common/images/button_italic.png","Italic text","\'\'","\'\'","Italic text","mw-editbutton-italic");
-mw.toolbar.addButton("//bits.wikimedia.org/skins-1.18/common/images/button_link.png","Internal link","[[","]]","Link title","mw-editbutton-link");
-mw.toolbar.addButton("//bits.wikimedia.org/skins-1.18/common/images/button_extlink.png","External link (remember http:// prefix)","[","]","http://www.example.com link title","mw-editbutton-extlink");
-mw.toolbar.addButton("//bits.wikimedia.org/skins-1.18/common/images/button_headline.png","Level 2 headline","\n== "," ==\n","Headline text","mw-editbutton-headline");
-mw.toolbar.addButton("//bits.wikimedia.org/skins-1.18/common/images/button_image.png","Embedded file","[[File:","]]","Example.jpg","mw-editbutton-image");
-mw.toolbar.addButton("//bits.wikimedia.org/skins-1.18/common/images/button_media.png","File link","[[Media:","]]","Example.ogg","mw-editbutton-media");
-mw.toolbar.addButton("//bits.wikimedia.org/skins-1.18/common/images/button_math.png","Mathematical formula (LaTeX)","\x3cmath\x3e","\x3c/math\x3e","Insert formula here","mw-editbutton-math");
-mw.toolbar.addButton("//bits.wikimedia.org/skins-1.18/common/images/button_nowiki.png","Ignore wiki formatting","\x3cnowiki\x3e","\x3c/nowiki\x3e","Insert non-formatted text here","mw-editbutton-nowiki");
-mw.toolbar.addButton("//bits.wikimedia.org/skins-1.18/common/images/button_sig.png","Your signature with timestamp","--~~~~","","","mw-editbutton-signature");
-mw.toolbar.addButton("//bits.wikimedia.org/skins-1.18/common/images/button_hr.png","Horizontal line (use sparingly)","\n----\n","","","mw-editbutton-hr");
-}</script>
-<script src="/w/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303-4" type="text/javascript"></script>
-<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
-<script type="text/javascript">if ( window.mediaWiki ) {
-	mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,
-	"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"gadget-wmfFR2011Style":1});;mw.user.tokens.set({"editToken":"+\\","watchToken":false});;mw.loader.state({"user.options":"ready","user.tokens":"ready"});
-	
-	/* cache key: enwiki:resourceloader:filter:minify-js:4:b41a86ec4e0fe8329bc3ce917e792339 */
-}
-</script><script src="//geoiplookup.wikimedia.org/" type="text/javascript"></script><!-- Served by srv196 in 0.361 secs. -->
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_of_computing_and_IT_abbreviations&amp;action=edit&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.using("mediawiki.toolbar", function () {mw.toolbar.addButton(false,"Bold text","'''","'''","Bold text","mw-editbutton-bold");mw.toolbar.addButton(false,"Italic text","''","''","Italic text","mw-editbutton-italic");mw.toolbar.addButton(false,"Internal link","[[","]]","Link title","mw-editbutton-link");mw.toolbar.addButton(false,"External link (remember http:// prefix)","[","]","http://www.example.com link title","mw-editbutton-extlink");mw.toolbar.addButton(false,"Level 2 headline","\n== "," ==\n","Headline text","mw-editbutton-headline");mw.toolbar.addButton(false,"Embedded file","[[File:","]]","Example.jpg","mw-editbutton-image");mw.toolbar.addButton(false,"File link","[[Media:","]]","Example.ogg","mw-editbutton-media");mw.toolbar.addButton(false,"Ignore wiki formatting","\u003Cnowiki\u003E","\u003C/nowiki\u003E","Insert non-formatted text here","mw-editbutton-nowiki");mw.toolbar.addButton(false,"Horizontal line (use sparingly)","\n----\n","","","mw-editbutton-hr");});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":181,"wgHostname":"mw1238"});});</script>
 	</body>
 </html>
